@@ -2,7 +2,7 @@
 title: IB Math 1 - Scope and Sequence
 layout: post
 ---
-#IB Math 1st year
+# IB Math 1st year
 
 **Course scope and sequence**
 

@@ -7,4 +7,6 @@ layout: post
 
 \[ f(x) = mx+b \]
 
-Link: [IB Math 1](IB-math1-scope+sequence)
+Links: [IB Math 1](IB-math1-scope+sequence)
+
+[Lesson plan template](Lesson-plan-template)

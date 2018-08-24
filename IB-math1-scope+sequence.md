@@ -8,11 +8,13 @@ layout: post
 
 *Let's try some markup*
 
-$f(x) = mx+b$
+3 math formulas follow:
+
+$$f(x) = mx+b$$
 
 $$g(x) = ax^2+bx+c$$
 
-\[ \frac{1}{2} \]
+$$ \frac{1}{2} $$
 
 **Daily DRUI**
 
@@ -27,7 +29,10 @@ continued
 Markdown examples
 
 [x] this is a complete item
+
 [ ] this is an incomplete item
 
-* Item 1
+* Item 1 (bullet)
 * Item 2
+
+[link to jupyter notebook](Python-scrap-worksheet)

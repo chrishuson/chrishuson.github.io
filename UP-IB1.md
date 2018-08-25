@@ -24,7 +24,8 @@ Plan 2018-19
 
 Dates| Textbook Chapter | Standards | Project |Duration | IB Guide recommendation
 ---|---|---|---|---:|:---:
-9/7 - 9/29 | 1. Functions | Inverse, composition, transformations ||11| 10
+9/5 - 9/21 | 1. Functions review | Graphical features, in/decreasing, extrema (gradient); applications; sequences ||10|
+9/24 - 10/5 | 7. Derivatives | Limits, tangents/normals, differentiating polynomials ||10|
 
 ## IB Guide
 

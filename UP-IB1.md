@@ -25,7 +25,19 @@ Plan 2018-19
 Dates| Textbook Chapter | Standards | Project |Duration | IB Guide recommendation
 ---|---|---|---|---:|:---:
 9/5 - 9/21 | 1. Functions review | Graphical features, in/decreasing, extrema (gradient); applications; sequences ||10|
-9/24 - 10/5 | 7. Derivatives | Limits, tangents/normals, differentiating polynomials ||10|
+9/24 - 10/5 | 7. Derivatives | Limits, tangents/normals, differentiating polynomials ||10|10
+10/9 - 10/19 | 12. Vectors | Introduction, arithmetic, line equations, intersection, applications ||9|8
+10/22 - 11/2 | 7. Calculus | Graphical interpretations, kinematics, applications ||10|10
+11/5 - 11/21 | 11, 13. Trig & periodic functions | Sine, cosine rules, transformations, applications, identities, derivatives ||11| 8
+11/26 - 12/7 | 15. Probability distributions | Binomial expansion, expected value, normal distribution | |10|
+12/10 - 12/18 | 10. Bivariate analysis | Review cumulative frequency; scatter plots, regression ||7|
+1/2 - 1/18 | 9. Integration | Antiderivatives, areas, motion applications ||13|15
+1/29 - 2/15 | 7. Calculus | Product/quotient/chain rules, kinematics, graphical interpretation, applications ||13| 5
+2/25 - 3/8 | 12. Vectors | Dot product, angles, applications ||10| 8
+3/11 - 3/22 | 9. Integration |Definite integrals, areas, volumes, kinematics||10|
+3/25 - 4/5 | Functions review | Exponentials, logarithms, rational expressions, sequences & series ||10|
+4/8 - 4/18 | Probability & statistics review | Independence, conditional, frequency, cumulative, & normal distributions ||9|
+4/29 - 5/3 | Review |||5|
 
 ## IB Guide
 

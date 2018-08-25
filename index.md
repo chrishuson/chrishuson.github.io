@@ -1,9 +1,10 @@
 
-*Let's try some markup*
+# BECA High School mathematics courses
 
-\[ f(x) = mx+b \]
+**Unit plans**
 
-Links: [IB Math 1](IB-math1-scope+sequence)
+
+Links: [Sandbox](IB-math1-scope+sequence)
 
 [IB Math 1st year Unit Plan](UP-IB1)
 

@@ -1,16 +1,22 @@
-# IB Math 1st year
+# Sandbox
 
 **Course scope and sequence**
 
 *Let's try some markup*
 
-3 math formulas follow:
+## Mathematics (LaTeX)
+
+4 math formulas follow:
 
 $f(x) = mx+b$
 
 $$g(x) = ax^2+bx+c$$
 
 $$ \frac{1}{2} $$
+
+\[ f(x) = mx+b \]
+
+## Tables
 
 **Daily DRUI**
 
@@ -21,7 +27,7 @@ Date | Topic | Guiding Question | Do Now | Task | Homework
 
 continued
 
-Markdown examples
+## Misc markdown examples
 
 [x] this is a complete item
 
@@ -30,8 +36,14 @@ Markdown examples
 * Item 1 (bullet)
 * Item 2
 
+## Links to other pages
+
 [Home](index)
 
-[link to jupyter notebook](Python-scrap-worksheet)
+[IB Math 1st year Unit Plan](UP-IB1)
+
+[IB Math 2nd year Unit Plan](UP-IB2)
+
+[link to jupyter notebook (broken)](Python-scrap-worksheet)
 
 [Lesson plan template](Lesson-plan-template)

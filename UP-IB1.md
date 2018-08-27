@@ -24,7 +24,7 @@ Plan 2018-19
 
 Dates| Textbook Chapter | Standards | Project |Duration | IB Guide recommendation
 ---|---|---|---|---:|:---:
-9/5 - 9/21 | 1. Functions review | Graphical features, in/decreasing, extrema (gradient); applications; sequences ||10|
+9/5 - 9/21 | 1. Functions review | Graphical features, in/decreasing, extrema (gradient), continuity; applications; sequences ||10|
 9/24 - 10/5 | 7. Derivatives | Limits, tangents/normals, differentiating polynomials ||10|10
 10/9 - 10/19 | 12. Vectors | Introduction, arithmetic, line equations, intersection, applications ||9|8
 10/22 - 11/2 | 7. Calculus | Graphical interpretations, kinematics, applications ||10|10

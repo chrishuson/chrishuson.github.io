@@ -4,7 +4,7 @@
 
 Historical 2017-18
 
-Dates| Textbook Chapter | Standards | Project |Duration | IB Guide recommendation
+Dates| Unit (Textbook Chapter) | Topics | Project |Duration | IB Guide recommendation
 ---|---|---|---|---:|:---:
 9/7 - 9/20 | 7. Derivatives | Limits, differentiating polynomials, tangent/normals ||10| 10
 9/25 - 10/19 | 7. Calculus | Product/quotient/chain rules, kinematics; graphical interpretation ||15| 10

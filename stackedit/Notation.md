@@ -1,7 +1,7 @@
 
 ## Standard conventions for mathematical notation
-### Step by step, left to right, top to b
 *Practice writing mathematics properly, following convention*
+### Step by step: left to right, top to bottom
 - Use the course formula sheet.
 - Chose the appropriate formula.\
      (you do not have to copy down the formula)
@@ -11,8 +11,7 @@
 - Write down the exact solution or copy the calculator display. An ellipsis ($\ldots$) indicates more digits.
 - Round to 3 significant digits (use $\approx$).
 
-## Standard conventions for mathematical notation
-*Practice writing mathematics according to IB requirements, as per exam rubrics.*
+### Be especially clear when taking key steps
  Examples of key algebraic techniques
 - Setting a quadratic function $=0$
 - Converting an exponent to a log
@@ -24,6 +23,6 @@ $=135.99609\ldots \approx 136$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTk4ODI4NiwyMDc2MzA1MDMyLC01MD
-IzMzk1MDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMTI1MjQ2NjgsMjA3NjMwNTAzMiwtNT
+AyMzM5NTA1XX0=
 -->

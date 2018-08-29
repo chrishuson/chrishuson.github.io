@@ -11,7 +11,7 @@
 - Write down the exact solution or copy the calculator display. An ellipsis ($\ldots$) indicates more digits.
 - Round to 3 significant digits (use $\approx$).
 
-### Be especially clear when taking key steps
+### Be especially clear when writing key steps
  Examples of key algebraic techniques
 - Setting a quadratic function $=0$
 - Converting an exponent to a log
@@ -20,9 +20,9 @@
 $\sum_{k=1}^5 3 \cdot 2.25^k =3 + 6.75+\ldots+76.8867\ldots$
 $=135.99609\ldots \approx 136$
 
-
+Links
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI1MjQ2NjgsMjA3NjMwNTAzMiwtNT
-AyMzM5NTA1XX0=
+eyJoaXN0b3J5IjpbODE1NjExMzE5LC0xMDEyNTI0NjY4LDIwNz
+YzMDUwMzIsLTUwMjMzOTUwNV19
 -->

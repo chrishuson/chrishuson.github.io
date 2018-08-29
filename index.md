@@ -4,7 +4,7 @@
 **Unit plans**
 
 
-Links: [Sandbox](IB-math1-scope+sequence)
+Links: [Expectations](Expectations)
 
 [IB Math 1st year Unit Plan](UP-IB1)
 
@@ -12,9 +12,7 @@ Links: [Sandbox](IB-math1-scope+sequence)
 
 [Lesson plan template](Lesson-plan-template)
 
-Front Matter (taken out as a test)
+[Sandbox](IB-math1-scope+sequence)
 
----
-title: Huson Mathematics Course Files
-layout: post
----
+
+[Home](index), [Expectations](Expectations), [Writing](Written-work)

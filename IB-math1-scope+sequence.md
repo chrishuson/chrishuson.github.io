@@ -25,20 +25,19 @@ Date | Topic | Guiding Question | Do Now | Task | Homework
 6 Sep | Intro to triangles | How do we abbreviate geometric terms? | Handout | Equilateral triangle definition and applications | Triangle+algebra practice
 7 Sep |||||
 
-continued
 
-## Misc markdown examples
+Front Matter (taken out as a test)
 
-[x] this is a complete item
-
-[ ] this is an incomplete item
-
-* Item 1 (bullet)
-* Item 2
+---
+title: Huson Mathematics Course Files
+layout: post
+---
 
 ## Links to other pages
 
 [Home](index)
+
+[Expectations](Expectations)
 
 [IB Math 1st year Unit Plan](UP-IB1)
 

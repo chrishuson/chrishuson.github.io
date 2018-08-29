@@ -1,9 +1,9 @@
 
 ## Standard conventions for mathematical notation
-*Practice writing mathematics according to IB requirements, as per exam rubrics.*
-- Use the formula sheet.
+*Practice writing mathematics properly, following convention*
+- Use the course formula sheet.
 - Chose the appropriate formula.\
-     (you do not have to copy the formula)
+     (you do not have to copy down the formula)
 - Substitute values correctly.
 - Solve, showing key steps.\
      (skip routine algebra if you like)
@@ -23,6 +23,6 @@ $=135.99609\ldots \approx 136$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDc2ODcxNiwyMDc2MzA1MDMyLC01MD
-IzMzk1MDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjUyNzg0OTQsMjA3NjMwNTAzMiwtNT
+AyMzM5NTA1XX0=
 -->

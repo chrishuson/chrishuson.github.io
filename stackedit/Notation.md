@@ -1,5 +1,6 @@
 
 ## Standard conventions for mathematical notation
+### Step by step, left to right, top to b
 *Practice writing mathematics properly, following convention*
 - Use the course formula sheet.
 - Chose the appropriate formula.\
@@ -23,6 +24,6 @@ $=135.99609\ldots \approx 136$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUyNzg0OTQsMjA3NjMwNTAzMiwtNT
-AyMzM5NTA1XX0=
+eyJoaXN0b3J5IjpbMTAwOTk4ODI4NiwyMDc2MzA1MDMyLC01MD
+IzMzk1MDVdfQ==
 -->

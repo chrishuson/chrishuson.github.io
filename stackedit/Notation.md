@@ -2,13 +2,13 @@
 ## Standard conventions for mathematical notation
 *Practice writing mathematics according to IB requirements, as per exam rubrics.*
 - Use the formula sheet.
-- Chose the appropriate formula (M1).\
+- Chose the appropriate formula.\
      (you do not have to copy the formula)
-- Substitute values correctly (A1).
-- Solve, showing key steps (A1).\
+- Substitute values correctly.
+- Solve, showing key steps.\
      (skip routine algebra if you like)
-- Write down the exact solution or copy the calculator display. An ellipsis (\ldots) indicates more digits (A1).
-- Round to 3 significant digits (use $\approx$)(A1).
+- Write down the exact solution or copy the calculator display. An ellipsis ($\ldots$) indicates more digits.
+- Round to 3 significant digits (use $\approx$).
 
 ## Standard conventions for mathematical notation
 *Practice writing mathematics according to IB requirements, as per exam rubrics.*
@@ -23,6 +23,6 @@ $=135.99609\ldots \approx 136$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjAyNzYwNSwyMDc2MzA1MDMyLC01MD
+eyJoaXN0b3J5IjpbMTUxMDc2ODcxNiwyMDc2MzA1MDMyLC01MD
 IzMzk1MDVdfQ==
 -->

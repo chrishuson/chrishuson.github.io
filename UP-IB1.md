@@ -2,21 +2,24 @@
 
 ## IB Math - 1st year
 
-Historical 2017-18
+Plan 2018-19
 
-Dates| Unit (Textbook Chapter) | Topics | Project |Duration | IB Guide recommendation
+Dates| Unit (Textbook Chapter) | Topics | Project |Duration | IB Guide
 ---|---|---|---|---:|:---:
-9/7 - 9/29 | 1. Functions (Chapter 1) | Inverse, composition, transformations ||11| 10
-10/3 - 10/19 | 2. Quadratics (Chapter 2) | Solving, graphing ||9| 5
-10/23 - 1/16 | 3. Exponents & logarithms  (Chapter 4) | Solving, graphing, logarithms |Desmos graphing |35| 10
-1/30 - 3/8 | 4. Probability  (Chapter 3) | Definitions, counting, conditionals, frequency, Venn diagrams  |Combinatorics application |17| 10
-3/12 - 3/15 | 5. Rational functions (Chapter 5)  | Solving, graphs, asymptotes |Inverse function graphing |3| 3
-3/12 - 3/29 | 6. Sequences & series  (Chapter 6) | Arithmetic, geometric, recursive |Infinite geometric series |7| 5
-4/9 - 4/19 | 7. Descriptive statistics  (Chapter 8) | Definitions, frequencies |Subway comparison|6| 5 (+10)
-4/23 - 5/14 | 8. Bivariate analysis (Chapter 10)  | Scatter plots, regression |Begin exploration |6| 8
-5/16 - 6/4 | 9. Trig & periodic functions (Chapter 11, 13) | Trig ratios, unit circle, graphing |Complete exploration |9| 8 (+8)
+9/5 - 9/21 | 1. Algebra review (Chapter 1, 2, 4) | Notation, domain, range, factoring, exponents; graphing |Desmos plotting |8|
+9/24 - 10/5 | 2. Statistics review  (Chapter 8, 10) | Concepts, frequency, central tendency, scatter plots, line of best fit |Desmos regression|8|
+10/9 - 10/19 | 3. Functions (Chapter 1) | Inverse, composition, transformations |Inverse graphing|7| 10
+10/22 - 11/2 | 4. Quadratics (Chapter 2) | Completing square, graphs, roots, quadratic formula, discriminant|Ballistics application|8| 5
+11/5 - 11/21 | 5. Probability  (Chapter 3) | Definitions, counting, conditionals, frequency, Venn diagrams, trees|Simulation (binomial?), table, trees|9| 10
+11/26 - 12/7 | 6. Exponents  (Chapter 4) | Solving, graphing, applications |Desmos graph manual fit |7| 10
+12/10 - 12/18 | 7. Logarithms  (Chapter 4) | Logarithms ||6| 10
+3/12 - 3/15 | 8. Rational functions (Chapter 5)  | Solving, graphs, asymptotes |Reciprocal function graphing, asymptotes & transformations|3| 3
+3/12 - 3/29 | 9. Sequences & series  (Chapter 6) | Arithmetic, geometric, recursive |Infinite geometric series |7| 5
+4/9 - 4/19 | 10. Descriptive statistics  (Chapter 8) | Dispersion, cumulative frequency |Subway comparison|6| 5 (+10)
+4/23 - 5/14 | 11. Bivariate analysis (Chapter 10)  | Correlation, regression ||6| 8
+5/16 - 6/4 | 12. Trig & periodic functions (Chapter 11, 13) | Trig ratios, unit circle, graphing ||9| 8 (+8)
 
-103 total instructional days (including projects and assessments)
+(103?) total instructional days (including projects and assessments)
 
 ## IB Math - 2nd year
 
@@ -38,6 +41,8 @@ Dates| Unit (Textbook Chapter) | Topics  | Project |Duration | IB Guide recommen
 3/25 - 4/5 | 12. Functions review (Chapter 1-4) | Exponentials, logarithms, rational expressions, sequences & series ||10|
 4/8 - 4/18 | 13. Probability & statistics review (Chapter 11, 13) | Independence, conditional, frequency, cumulative, & normal distributions ||9|
 4/29 - 5/3 | 14. Review |||5|
+
+137 instructional days (30 more than projected actual)
 
 ## IB Guide
 

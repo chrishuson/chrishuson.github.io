@@ -20,9 +20,9 @@
 $\sum_{k=1}^5 3 \cdot 2.25^k =3 + 6.75+\ldots+76.8867\ldots$
 $=135.99609\ldots \approx 136$
 
-Links
+Links: [GitHub Pages](https://chrishuson.github.io/)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NjExMzE5LC0xMDEyNTI0NjY4LDIwNz
-YzMDUwMzIsLTUwMjMzOTUwNV19
+eyJoaXN0b3J5IjpbLTQ3NDMxNDg2MCwtMTAxMjUyNDY2OCwyMD
+c2MzA1MDMyLC01MDIzMzk1MDVdfQ==
 -->

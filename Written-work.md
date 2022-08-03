@@ -1,8 +1,4 @@
 # Written Work
-
-
-### Technical writing
-*Write a short paper answering a specific question*
 - **Coherent:** Logical, step-by-step explanation, using examples
 - **Vocabulary:** Precise terminology, succinct
 - **Notation:** Algebra symbols, tables, trees, grids

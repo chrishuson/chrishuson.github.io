@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
-
+title: Dr. Huson's BECA Math
+description: Classroom assignments and resources
 relative_links:
   enabled: true
   collections: true

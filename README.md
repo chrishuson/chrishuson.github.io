@@ -1,5 +1,6 @@
 # chrishuson.github.io
 Hosting for Course Files
+General landing page for math.huson.com
 
 *(for my high school math classes)*
 

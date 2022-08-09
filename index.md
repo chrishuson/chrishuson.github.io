@@ -15,7 +15,7 @@ Links: [Expectations](Expectations)
 
 [Lesson plan template](Lesson-plan-template)
 
-[Sandbox](IB-math1-scope+sequence)
+[Sandbox](geometry-sandbox)
 
 
 [Home](index), [Expectations](Expectations), [Writing](Written-work)

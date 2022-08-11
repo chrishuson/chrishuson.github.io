@@ -5,6 +5,7 @@
 ### markdown checkboxes
 
 [x] this is a complete item
+
 [ ] this is an incomplete item
 
 *italics*
@@ -35,6 +36,7 @@ Geometry | Shapes | 7, 10
 (horizontal rule)
 
 ## Mathematics formulas (basic LaTeX)
+LaTeX markdown is not being rendered by GitHub Pages' automatic process. A version converted to html by Markdown Preview Enhanced is [here](sandbox-rendered).
 
 The Pythagorean formula
 

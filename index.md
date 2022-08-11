@@ -1,19 +1,15 @@
 
 # BECA High School mathematics courses
 
-**Unit plans**
-
 ## Geometry
+
+[Course Plan](https://github.com/chrishuson/course-files/blob/master/Geom2023/Plan-Geom2022-23.pdf)
+
+[Unit Plans](https://github.com/chrishuson/course-files/blob/master/Geom2023/Plan-Geom-Units.pdf)
 
 ## IB Math Applications and Interpretations
 
-[//]: # Links: [Expectations](Expectations)
-
-[IB Math 1st year Unit Plan](UP-IB1)
-
-[IB Math 2nd year Unit Plan](UP-IB2)
-
-[//]: # [Lesson plan template](Lesson-plan-template-old)
+[Course Plan](Plan_IB-2022-23)
 
 ## Resources and inspiration
 We'll be using these tools. Get to know them!
@@ -25,17 +21,18 @@ Set up your account using your real name. My teacher ID is 546068.
 [Geogebra](https://www.geogebra.org/geometry)
 [Graspable Math](https://graspablemath.com/canvas)
 
-
-[Nathan Day's Mathematicians slide deck](MathematiciansoftheWorld_NathanDay.pdf)
+[Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
+(credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))
 
 [Expectations](Expectations)
+
 [Writing](Written-work)
 
 ## About / Contact
 [Contact](Contact)
 
-[Sandbox](geometry-sandbox)
+[Sandbox](sandbox)
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456
-Last update: 9 Aug 2022
+Last update: 10 Aug 2022

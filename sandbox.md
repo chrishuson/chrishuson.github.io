@@ -53,10 +53,16 @@ $\overline{RS} \cong \overline{ST}$
 [LaTeX package execution in markdown notes](latex-md-sandbox) (not working)
 \tikz{\draw (0,0)--(2,1);}
 
-# Graphics and images
+## Graphics and images
 
 ![Geogebra triangle graph](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/graphics/06triangle.png)
 
 ![Rainfall plot](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/graphics/rainfall.png)
 
 ![Alt Dr. Huson](Chris_Huson.jpg)
+
+## Jupyter Notebooks
+
+[link to Pandas Notes notebook](Pandas_Notes_Oct18)
+
+[link to manual html export of Pandas Notes notebook](Pandas_Notes_manual_export)

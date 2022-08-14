@@ -9,9 +9,13 @@
 
 ## IB Math Applications and Interpretations
 
-[Course Plan](Plan_IB-2022-23) 
+[Course Plan](Plan_IB2023) 
 
-[(alternative manually rendered version)](Plan_IB-flat)
+[(alternative manually rendered version)](Plan_IB2023-wide)
+
+[Prior year plans](Plan_IB-archive) 
+
+[(Prior year plans, wide version)](Plan_IB-wide-archive)
 
 ## Resources and inspiration
 We'll be using these tools. Get to know them!

@@ -2,7 +2,7 @@
 
 ## IB Mathematics Applications and Interpretations
 
-Plan 2022-2023
+Plan (not sure what year this was copied from)
 
 Dates| Unit (Textbook Chapter) | Topics | Project |Duration | IB Guide
 ---|---|---|---|---:|:---:

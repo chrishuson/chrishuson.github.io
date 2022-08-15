@@ -61,6 +61,10 @@ $\overline{RS} \cong \overline{ST}$
 
 ![Alt Dr. Huson](Chris_Huson.jpg)
 
+html tags for image size
+
+    <img src="image.png" width="200" height="100">
+
 ## Jupyter Notebooks
 
 [link to Pandas Notes notebook](Pandas_Notes_Oct18)

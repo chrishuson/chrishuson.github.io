@@ -47,5 +47,17 @@
 
   *If you are not paying for it, you're not the customer; you're the product being sold.*
 
+### Common errors
+- Do follow MLA format, citing quotes and references, bibligraphy
+- Do not use an inappropriate fictional structure (instead, use an academic style, "The purpose of this paper is…")
+- Be careful using of color in graphs, particularly if printed in black and white
+- Avoid breaking tables across pages, but place tables in the paper; not in appendices
+- You may show full working by hand in appendix
+- Computer filenames: no special characters, blanks (dash -, underbar _ are ok)
+
+Resources
+- Writing checklists
+- Sentence starters
+- Templates: bibliography, formulas, whisker plots
 
 [Home](index), [Expectations](Expectations), [Writing](Written-work)

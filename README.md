@@ -1,7 +1,5 @@
 # chrishuson.github.io
-Hosting for Course Files
-General landing page for math.huson.com
+Hosting for my math instruction website, Geometry and IB Math courses.  
+(The url math.huson.com is redirected here) The official school course websites are hosted on BECA's Google Classroom.
 
-*(for my high school math classes)*
-
-Generally, these are policies and plans that apply to all of my classes and can be written in enhanced markdown. The documents are edited in stackedit.io and published here as html for web hosting. The source markdown files are backed up on my GitHub repository directory, course-files/stackedit/. 
+Generally, my problem sets and slides are written in $\LaTeX$ and managed in my course-files GitHub repo. These pages are written in markdown.

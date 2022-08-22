@@ -1,8 +1,6 @@
-# Unit scope and sequence
+# Prior years: 2017-18 Unit scope and sequence
 
-## IB Math - 1st year
-
-Historical 2017-18
+## IB Math SL - 1st year
 
 Dates| Unit (Textbook Chapter) | Topics | Project |Duration | IB Guide recommendation
 ---|---|---|---|---:|:---:
@@ -18,9 +16,7 @@ Dates| Unit (Textbook Chapter) | Topics | Project |Duration | IB Guide recommend
 
 103 total instructional days (including projects and assessments)
 
-## IB Math - 2nd year
-
-Historical 2017-18
+## IB Math SL - 2nd year
 
 Dates| Unit (Textbook Chapter) | Topics | Project |Duration | IB Guide recommendation
 ---|---|---|---|---:|:---:

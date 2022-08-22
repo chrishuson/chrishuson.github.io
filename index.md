@@ -9,18 +9,16 @@
 
 ## IB Math Applications and Interpretations
 
-[Course Plan](Plan_IB2023) [(alternative manually rendered wide version)](Plan_IB2023-wide)
+[Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)
 
 IB Syllabus, prior learning, topics
 
-[Prior year plans](Plan_IB-archive) [(wide version)](Plan_IB-wide-archive)
+[Prior year plans](IB2023/Plan_IB-archive) [(wide version)](IB2023/Plan_IB-wide-archive)
 
-## Resources and inspiration
-We'll be using these tools. Get to know them!
+## Tools and resources
+We'll be using these mathematics tools. Get to know them!
 
-[DeltaMath](https://www.deltamath.com)
-
-Set up your account using your real name. My teacher ID is 546068.
+[DeltaMath](https://www.deltamath.com) Set up your account using your real name. My teacher ID is 546068.
 
 [Desmos](https://www.desmos.com/calculator)
 
@@ -28,10 +26,11 @@ Set up your account using your real name. My teacher ID is 546068.
 
 [Graspable Math](https://graspablemath.com/canvas)
 
+I hope you find these images as inspirational as I do  
 [Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))
 
-[Writing](Written-work)
+[My throughts on technical writing](Written-work)
 
 ## About / Contact
 [Contact](Contact)
@@ -40,4 +39,4 @@ Set up your account using your real name. My teacher ID is 546068.
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456
-Last update: 10 Aug 2022
+Last update: 22 Aug 2022

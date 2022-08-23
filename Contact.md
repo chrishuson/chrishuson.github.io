@@ -8,7 +8,7 @@ Students should track your grades on [Jumprope](https://jumpro.pe). (Parents, yo
         Chris Huson  <br> chuson@schools.nyc.gov   <br> 917-648-5632
     </div>
     <div style="margin-left: 80%; height: 150px; "> 
-        <img src="./images/Chris_Huson-.jpg">
+        <img src="./images/Chris_Huson.jpg">
     </div>
 </div>
 

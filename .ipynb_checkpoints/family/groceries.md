@@ -1,4 +1,5 @@
 ## 2022 Telluride Grocery List
+*(Last year's as a placeholder)*
 
 There are 11 of us this year -- Plan accordingly.  Please edit the list below, and color your edits in red, so that we can see that you made a change.  It's important for you to indicate the quantity you need, too.
 

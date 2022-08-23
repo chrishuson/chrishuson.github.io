@@ -4,11 +4,11 @@ February 19-26, Sunday to Sunday
 Fly into Denver
 
 Conditions and travel intell:
-[NOAA Forecast](https://forecast.weather.gov/MapClick.php?lat=39.4816&lon=-106.0667)
-[Ski blog](https://www.ski.com/blog/)
-https://snowbrains.com/
+[NOAA Forecast](https://forecast.weather.gov/MapClick.php?lat=39.4816&lon=-106.0667), 
+[Ski blog](https://www.ski.com/blog/),  
+[Snowbrains](https://snowbrains.com/)
 
-Nordic trails: http://telluridenordic.com/trails/
+[Nordic trails](https://www.breckenridgenordic.com/)
 
 Please review the [grocery list](groceries)
 "Who's hungry?!"

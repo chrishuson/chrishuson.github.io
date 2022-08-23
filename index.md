@@ -30,12 +30,12 @@ I hope you find these images as inspirational as I do
 [Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))
 
-[My throughts on technical writing](written-work)
+[My throughts on technical writing](Written-work)
 
 [ibo.org](https://ibo.org)  
 
 ## About / Contact
-[Contact](contact)
+[Contact](Contact)
 
 [Sandbox](sandbox)
 

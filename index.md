@@ -9,11 +9,11 @@
 
 ## IB Math Applications and Interpretations
 
-[Course Plan](IB2023/plan_IB2023) [(alternative manually rendered wide version)](IB2023/plan_IB2023-wide)
+[Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)
 
 IB Syllabus, prior learning, topics
 
-[Prior year plans](IB2023/plan_IB-archive) [(wide version)](IB2023/plan_IB-wide-archive)
+[Prior year plans](IB2023/Plan_IB-archive) [(wide version)](IB2023/Plan_IB-wide-archive)
 
 ## Tools and resources
 We'll be using these mathematics tools. Get to know them!

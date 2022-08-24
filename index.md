@@ -26,6 +26,11 @@ We'll be using these mathematics tools. Get to know them!
 
 [Graspable Math](https://graspablemath.com/canvas)
 
+Lesson websites and videos
+[Cut the Knot](https://www.cut-the-knot.org/geometry.shtml)
+
+[Wolfram](https://mathworld.wolfram.com/topics/Geometry.html), see also his calculator, [Wolfram Alpha](https://www.wolframalpha.com/)
+
 I hope you find these images as inspirational as I do  
 [Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))

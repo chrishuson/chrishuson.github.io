@@ -1,4 +1,4 @@
-## Geometry
+# Geometry
 
 [Class Routines and Expectations](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/Slides/00-Slides_Routines.pdf)
 

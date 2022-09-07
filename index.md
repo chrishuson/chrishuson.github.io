@@ -9,6 +9,10 @@
 
 [Lessons](geometry)
 
+## SAT Preparation
+
+[Course Plan](SAT2023/plan-SAT2023)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)
@@ -21,6 +25,8 @@ IB Syllabus, prior learning, topics
 We'll be using these mathematics tools. Get to know them!
 
 [DeltaMath](https://www.deltamath.com) Set up your account using your real name. My teacher ID is 546068.
+
+[Khan Academy](https://www.khanacademy.org/sat)
 
 [Desmos](https://www.desmos.com/calculator)
 

@@ -13,7 +13,7 @@
 
 [Course Plan](SAT2023/plan-SAT2023)
 
-[Lessons](01-Slides-Algebra)
+[Lessons](IB2023/01-Slides-Algebra)
 
 ## IB Math Applications and Interpretations
 

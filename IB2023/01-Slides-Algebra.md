@@ -1,23 +1,18 @@
 ## Lesson 1.1 Linear equations in context
+Thursday 8 September 2022
 
 ### Solve the problem with the partner seated next to you
 The class will be divided among the three problems.
 
-1. In 2014, County X had 783 miles of paved roads. Starting in 2015, the county has
-    been building 8 miles of new paved roads each year. At this rate, how many miles
-    of paved road will County X have in 2030?
-1. In 2014, County X had 783 miles of paved roads. Starting in 2015, the county has
-    been building 8 miles of new paved roads each year. At this rate, if n is the number
-    of years after 2014, which of the following functions f gives the number of miles
-    of paved road there will be in County X?
+1. In 2014, County X had 783 miles of paved roads. Starting in 2015, the county has been building 8 miles of new paved roads each year. At this rate, how many miles of paved road will County X have in 2030?
+1. In 2014, County X had 783 miles of paved roads. Starting in 2015, the county has been building 8 miles of new paved roads each year. At this rate, if n is the number of years after 2014, which of the following functions f gives the number of miles of paved road there will be in County X?
     1. $f(n) = 8 + 783n$
     1. $f(n) = 2014 + 783n$
     1. $f(n) = 783 + 8n$
     1. $f(n) = 2014 + 8n$
 
-1. In 2014, County X had 783 miles of paved roads. Starting in 2015, the county has
-    been building 8 miles of new paved roads each year. At this rate, in which year will
-    County X first have at least 1,000 miles of paved roads?
+1. In 2014, County X had 783 miles of paved roads. Starting in 2015, the county has been building 8 miles of new paved roads each year. At this rate, in which year will County X first have at least 1,000 miles of paved roads?
+
   (Assume that no paved roads go out of service.)
 
 ### As you complete the problem record the following:
@@ -45,3 +40,11 @@ Take class notes in a composition book
     1. $C=20x+10$
     1. $C=20x+50$
     1. $C=20x+90$
+__________
+## Lesson 1.2 Linear equations in context, practice
+Friday 9 September 2022
+
+### Do Now: Complete the following problem in your notebook:
+A gym membership costs \$75 to join and \$50 per month. Make a table of the total amount that must be paid after zero months, one month, two months, etc., through six months.
+
+Write down some other questions about the gym membership that might be asked on an SAT test, similarly to yesterday's three road construction problems.

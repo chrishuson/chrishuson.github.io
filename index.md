@@ -13,6 +13,8 @@
 
 [Course Plan](SAT2023/plan-SAT2023)
 
+[Lessons](01-Slides-Algebra)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)

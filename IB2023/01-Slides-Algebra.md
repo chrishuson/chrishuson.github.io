@@ -96,7 +96,7 @@ __________
 1. Jenny plans to buy one video game and a number of hardcover books. The video game costs \$40 and each book costs \$30. If she must spend at least \$120 in order to get free shipping, what is the minimum number of books she must buy in order to get free shipping?
 
 1. Joel sells paintings. Each month he makes no commission on the first \$5,000 he sells but then makes a 10% commission on the rest.
-    1. How much does Joe earn if he sells \$45,000 in a month?
+    1. How much does Joel earn if he sells \$45,000 in a month?
     1. Write an equation of the amount of commission dollars Joel earns, $y$, when he sells $x$ dollars of paintings in a month.
     1. How much does Joe need to sell to earn $10,000 in a month?
 

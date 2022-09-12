@@ -78,7 +78,7 @@ __________
 
 Friday 9 September 2022
 
-### Do Now: Complete the following problem in your notebook:
+### Do Now: Complete the following problem in your notebook
 
 A gym membership costs \$75 to join and \$50 per month. Make a table of the total amount that must be paid after zero months, one month, two months, etc., through six months.
 
@@ -91,6 +91,13 @@ __________
 
 1. Benjamin makes sandals at home. The sandal making tools cost \$100 and he spends \$10 on materials for each sandal. He sells each sandal for \$30. How many sandals does he have to sell to break even?
 
+    Note: financial terminology
+
+    * Revenue, income, sales, "top line"
+    * Expense, costs, sunk costs and variable costs
+    * Profit, net income, "bottom line"
+    * "Break even" means sales equals costs, profit is zero
+
 1. A racket club charges \$100 to join the club and \$10 for every hour using the courts. Write an equation to express the cost $C$ in terms of $h$ hours of play.
 
 1. Jenny plans to buy one video game and a number of hardcover books. The video game costs \$40 and each book costs \$30. If she must spend at least \$120 in order to get free shipping, what is the minimum number of books she must buy in order to get free shipping?
@@ -101,3 +108,9 @@ __________
     1. How much does Joe need to sell to earn $10,000 in a month?
 
 1. Liz is making thirty shirts for her upcoming family reunion. At the reunion she is selling each shirt for \$18 apiece. If each shirt cost her \$10 apiece to make, how much profit does she make if she only sells 25 shirts at the reunion?  
+
+## Lesson 1.3 Linear equations in context, practice
+
+Tuesday 13 September 2022
+
+### Do Now: Complete the following problem in your notebook

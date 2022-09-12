@@ -86,7 +86,7 @@ Write down some other questions about the gym membership that might be asked on 
 
 Lesson: Practice linear equation word problems with a single variable.
 
-Homework: Khan Academy linear word problem practice
+Homework: Khan Academy linear function word problem practice
 __________
 
 1. Benjamin makes sandals at home. The sandal making tools cost \$100 and he spends \$10 on materials for each sandal. He sells each sandal for \$30. How many sandals does he have to sell to break even?

@@ -114,3 +114,57 @@ __________
 Tuesday 13 September 2022
 
 ### Do Now: Complete the following problem in your notebook
+
+Dr. Huson bought a new bicycle costing \$250, which he rides to school instead of taking the subway. Estimate how long it takes for him to break even, i.e. pay for the bike with the savings on subway fares.
+
+Lesson: Practice linear equation word problems with a single variable.
+
+Homework: Khan Academy linear function word problem practice
+_______
+
+As you do these problems, compare multiple methods including data tables, a function, calculation, graphing, and algebraic methods. Aim to master all methods and to develop a sense for which method is going to be most efficient for a particular problem.
+
+1. Antonette plans to rent a sailboat. The boat rents for \$60 per hour, and she will also have to pay for a water safety course that costs \$10. Maria wants to spend no more than \$280 for the rental and the course. If the boat rental is only available for a whole number of hours, what is the maximum number of hours for which Maria can rent the boat?
+
+1. At a restaurant, $n$ cups of tea are made by adding $t$ tea bags to hot water. if $t=n+2$, how many additional tea bags are needed to make each additional cup of tea?
+    A) None
+    B) One
+    C) Two
+    D) Three
+1. In air, the speed of sound $S$, in meters per second, is a linear function of the air temperature $T$, in degrees Celsius, and is given by $S(T)=0.6 T + 331.4$. Which of the following statements is the best interpretation of the number 331.4 in this context?
+  A) The speed of sound, in meters per second, at $0^\circ$C
+  B) The speed of sound, in meters per second, at $0.6^\circ$C
+  C) The increase in the speed of sound, in meters per second, that corresponds to an increase of  $1^\circ$C
+  D) The increase in the speed of sound, in meters per second, that corresponds to an increase of  $0.6^\circ$C
+
+1. The Bronx Business Association (BBA) plans to increase its membership by a total of $n$ businesses per year. There were $b$ businesses in the BBA at the beginning of this year. Which function best models the total number of businesses, $y$, the BBA plans to have as members $x$ years from now?
+    A) $y=nx+b$
+    B) $y=nx-b$
+    C) $y=b(n)^x$
+    D) $y=n(b)^x$
+
+1. Some values of the linear function $f$ are shown in the table below. Which of the following defines $f$?
+
+$x$ | $f(x)$
+--| ----
+1 | 5
+3 | 13
+5 | 21
+
+  A) $f(x)=2x+3$
+  B) $f(x)=3x+2$
+  C) $f(x)=4x+1$
+  D) $f(x)=5x$
+
+1. Some values of the linear function $f$ are shown in the table below. What is the value of $f(3)$?
+
+$x$ | $f(x)$
+--| ----
+0 | -2
+2 | 4
+6 | 16
+
+  A) 6
+  B) 7
+  C) 8
+  D) 9

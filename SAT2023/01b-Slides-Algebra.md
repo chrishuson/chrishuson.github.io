@@ -7,6 +7,7 @@ Thursday 15 September 2022
 ### Solve the problem with the partner seated next to you
 
 Do Now: 
+
 1. Solve this _system_ of equations
 $x+y=8$
 $x-y=4$

@@ -16,6 +16,7 @@ $\\[1cm]$
 
 $\\[1cm]$
 Lesson: Systems of equations (two variables)
+Homework: Practice linear equations SAT practice problems in Khan Academy
 __________
 
 Example 1
@@ -25,11 +26,12 @@ __________
 Example 2
 Each morning, John jogs at 6 miles per hour and rides a bike at 12 miles per hour. His goal is to jog and ride his bike a total of at least 9 miles in no more than 1 hour. If John jogs $j$ miles and rides his bike $b$ miles, which of the following systems of inequalities represents John’s goal?
 
-  A. $j/6+b/12<1$; $\hspace{0.5cm}$ $j+b≥9$ 
-  B. $j/6+b/12≥1$; $j+b≤9$
-  C. $6j+12b≥9$; $j+b≤1$
-  D. $6j+12b≤1$; $j+b≥9$
+  A. $j/6+b/12<1$; $\hspace{0.25cm}$ $j+b≥9$ 
+  B. $j/6+b/12≥1$; $\hspace{0.25cm}$ $j+b≤9$
+  C. $6j+12b≥9$; $\hspace{0.5cm}$ $j+b≤1$
+  D. $6j+12b≤1$; $\hspace{0.5cm}$ $j+b \geq 9$
 
+$\\[2cm]$
 __________
 
 ### What do you need to know to solve each problem?

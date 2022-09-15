@@ -12,7 +12,7 @@ $x+y=8$
 $x-y=4$
 $\\[1cm]$
 
-1. Adult tickets cost \$10 and child tickets cost \$2. Tickets for a group of five people total \$16. Write a system of equations to model the situation using $x$ for the number of adults and $y$ the number of children in the group.
+1. Adult tickets cost \$10 and child tickets cost \$2. Tickets for a group of five people total \$26. Write a system of equations to model the situation using $x$ for the number of adults and $y$ the number of children in the group.
 
 $\\[1cm]$
 Lesson: Systems of equations (two variables)

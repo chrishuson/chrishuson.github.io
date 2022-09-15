@@ -13,7 +13,11 @@
 
 [Course Plan](SAT2023/plan-SAT2023)
 
-[Lessons](IB2023/01-Slides-Algebra)
+[Lessons 1.1 - 1.3](SAT2023/01-Slides-Algebra)
+
+Lesson 1.4 access is through Google Classroom
+
+[Lesson 1.5](SAT2023/01b-Slides-Algebra)
 
 ## IB Math Applications and Interpretations
 

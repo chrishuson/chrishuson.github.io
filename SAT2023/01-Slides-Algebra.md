@@ -151,12 +151,12 @@ $x$ | $f(x)$
 3 | 13
 5 | 21
 
-  A) $f(x)=2x+3$
-  B) $f(x)=3x+2$
-  C) $f(x)=4x+1$
-  D) $f(x)=5x$
+    A) $f(x)=2x+3$
+    B) $f(x)=3x+2$
+    C) $f(x)=4x+1$
+    D) $f(x)=5x$
 
-1. Some values of the linear function $f$ are shown in the table below. What is the value of $f(3)$?
+6. Some values of the linear function $f$ are shown in the table below. What is the value of $f(3)$?
 
 $x$ | $f(x)$
 --| ----

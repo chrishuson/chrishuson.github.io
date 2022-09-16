@@ -19,6 +19,8 @@ Lesson 1.4 access is through Google Classroom
 
 [Lesson 1.5](SAT2023/01b-Slides-Algebra)
 
+Lesson 1.6 access is through Google Classroom
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)
@@ -60,4 +62,4 @@ I hope you find these images as inspirational as I do
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456
-Last update: 22 Aug 2022
+Last update: 15 September 2022

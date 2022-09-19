@@ -2,7 +2,7 @@
 
 ## Lesson 1.7 Fluency solving algebra problems
 
-Monday 18 September 2022
+Monday 19 September 2022
 
 ### Solve the problem, then compare your answer with the classmate seated next to you.
 

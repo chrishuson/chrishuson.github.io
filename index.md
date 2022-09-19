@@ -21,6 +21,8 @@ Lesson 1.4 access is through Google Classroom
 
 Lesson 1.6 access is through Google Classroom
 
+[Lesson 1.7 Algebra fluency](SAT2023/01-7-Slides-Fluency)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)

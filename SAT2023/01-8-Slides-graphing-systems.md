@@ -67,3 +67,16 @@ C) $y = \frac{1}{2} x + 3$
 D) $y = 2x + 4$
 
 __________
+
+3. A voter registration drive was held in Town $Y$. The number of voters, $V$, registered $T$ days after the drive began can be estimated by the equation $V = 3,450 + 65T$. What is the best interpretation of the number 65 in this equation?
+A. The number of registered voters at the beginning of the registration drive
+B. The number of registered voters at the end of the registration drive
+C. The total number of voters registered during the drive
+D. The number of voters registered each day during the drive
+
+__________
+
+4. $9x–14y= – 3$
+$2x – ay = – 6$
+
+What value of a will result in a system with no solutions?

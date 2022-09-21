@@ -9,50 +9,61 @@ Wednesday 21 September 2022
 Do Now: 
 
 1. Solve this _system_ of equations
-$3x+2y=13$
-$5x-2y=-5$
-$\\[1cm]$
+$2y+6x=3$
+$y+3x=2$
+How many solutions $(x,y)$ are there to the system of equations above?
+    1. Zero
+    1. One
+    1. Two
+    1. More than two
+$\\[0.5cm]$
 
-1. A local television station sells time slots for programs in 30-minute intervals. If the station operates 24 hours per day, every day of the week, what is the total number of 30-minute time slots the station can sell for Tuesday and Wednesday?
+Hint: There are multiple ways to solve a system: calculate/guess, make a data table, eliminate a variable, substitute a variable, graph the system.
 
-$\\[1cm]$
-Lesson: Practice, practice, practice
+$\\[0.5cm]$
+Lesson: The Relationships Among Linear Equations, Lines in the Coordinate Plane, and the Contexts They Describe
 Homework: Practice systems of equations SAT practice problems in Khan Academy
 __________
 
-### Fluency Relay Race
-Divide the class into teams of 3–4 students. You will receive problems as a team (one at a time). 
+### Systems of equations
 
-Use these directions:
+The point of intersection gives the solution to the system.
 
-1. Copy the given problem on the board (paper).
-1. Work as a team and race to solve each problem.
-1. Each student completes one step of the problem and then goes to the back of their team’s line.
-1. The next student completes the next step. If the student before has made a mistake, this student should use his/her turn to correct the mistake.
-1. Continue through all steps until the problem is solved.
-1. Last student should circle/box the solution.
-1. The first team to solve the problem correctly wins a point.
+If the equations in a system of two linear equations in two variables are
+graphed, each graph will be a line. There are three possibilities:
+* The lines intersect in one point. In this case, the system has a unique solution.
+* The lines are parallel. In this case, the system has no solution.
+* The lines are identical. In this case, every point on the line is a solution,
+and so the system has infinitely many solutions.
 
 __________
 
-1. $3(\frac{1}{2}-y)=\frac{3}{5}+15 \\[4cm]$
+### What we know about graphs of linear equations
 
-1. $-2(3x-2.4)=-3(3x-2.4) \\[4cm]$
+* To graph, rearrange equations into $y–mx+b$ form and use a graphing calculator.
+* Two lines are parallel if they have the same slope.
+* Two lines are perpendicular if the product of their slopes is –1.
+* For contextual situations, the slope is the rate of change, and the y-intercept is often the starting point.
 
-1. $-2x=4y+6$; $\hspace{0.3cm}$ $2(2y+3)=-3x-5 \\[4cm]$
+__________
 
-1. $3l-6>8  \\[4cm]$
+### Practice problems
 
-1. $y=3x$; $\hspace{0.3cm}$ $x=3y  \\[4cm]$
+1. $\hspace{0.3cm}$ $3s−2t=a$
+$–15s + bt = −7$
 
-1. $3+10x-5=(a+1) \cdot x-2$ 
-What value of $a$ will result in a system with infinitely many solutions?
-$ \\[4cm]$
+In the system of equations above, a and b are constants. If the system has Example 13
 
-### Practice debrief
+$\\[3cm]$
 
-How did your team solve your problems during the race?
+__________
 
-* Where were students successful?
-* Notice any common mistakes?
-* Recommend strategies for fluency?
+![line graph](1-8line-graph.png)
+
+2. The graph of line $k$ is shown in the $xy$-plane above. Which of the following is an equation of a line that is perpendicular to line $k$?
+A) $y = −2x + 1$ 
+B) $y = − \frac{1}{2} x + 2$
+C) $y = \frac{1}{2} x + 3$
+D) $y = 2x + 4$
+
+__________

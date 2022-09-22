@@ -82,3 +82,20 @@ __________
 4. $9x–14y= – 3$
 $2x – ay = – 6$ $\\$
 What value of $a$ will result in a system with no solutions?
+
+__________
+
+## Lesson 1.9 Quiz SAT practice No Calculator
+
+Thursday 22 September 2022
+
+### Do Now: Fractional exponent review
+
+Find each value
+
+1. $\sqrt{25}$
+1. $(\sqrt{4})^3$
+1. $\sqrt[3]{8}$
+
+Lesson: Fractional exponents
+Homework: Complete Khan Academy practice problems

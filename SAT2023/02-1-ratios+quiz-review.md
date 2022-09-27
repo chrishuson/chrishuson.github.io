@@ -14,6 +14,16 @@ B. 48
 C. 192 
 D. 200
 
+### Announcing: Apply for Girls Who Code at Columbia University
+
+Girls Who Code at Columbia University is a program where Columbia students teach computer science to high school women (grades 8 through 12) from all over NYC. Our club's mission is to create an open and fun learning environment for high school women to become familiar with the fundamentals of computer science, robotics, algorithms and mobile development. The club is an extension of the national organization. 
+
+[online application link](https://forms.gle/AmqVGz1C8Tq4hiG66) due 10/1/22 11:59PM EST 
+
+Other links:
+[GWC Columbia University on Facebook](http://on.fb.me/1YBhlxo)
+[GWC Columbia Website](http://gwcatcolumbia.com/)
+
 ### Quiz results: SAT No Calculator 22 Sept
 
 20 problems, 25 minutes
@@ -27,6 +37,15 @@ Mastery scores (Jumprope)
 
  Best problem was \#2, 61\% answered correctly  
  Hardest problem was \#15, only 7 students guessed correctly
+
+### SAT Practice test problem \#15 
+
+Alan drives an average of 100 miles each week. His car can travel  
+an average of 25 miles per gallon of gasoline. Alan would like to reduce  
+his weekly expenditure on gasoline by \$5. Assuming gasoline costs  
+\$4 per gallon, which equation can Alan use to determine how many fewer  
+average miles, $m$, he should drive each week?
+
 
 ### Class Activity—The Length of a Shadow | 25 minutes
 

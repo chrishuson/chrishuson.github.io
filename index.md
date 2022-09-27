@@ -25,6 +25,8 @@ Lesson 1.6 access is through Google Classroom
 
 [Lesson 1.8 Graphing systems of equations](SAT2023/01-8-Slides-graphing-systems)
 
+[SAT no Calculator quiz solutions](SAT2023/SAT-Quiz-solutions-22Sept.pdf)
+
 [Lesson 2.1 Ratio and proportion](SAT2023/02-1-ratios+quiz-review)
 
 ## IB Math Applications and Interpretations

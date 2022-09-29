@@ -27,7 +27,9 @@ Lesson 1.6 access is through Google Classroom
 
 [SAT no Calculator quiz solutions](SAT2023/SAT-Quiz-solutions-22Sept.pdf)
 
-[Lesson 2.1 Ratio and proportion](SAT2023/02-1-ratios+quiz-review)
+[Lesson 2.1 Ratio and proportion intro](SAT2023/02-1-ratios+quiz-review)
+
+[Lession 2.2, 2.3, 2.4 Ratio, percentage, units](SAT2023/02-2+Khan-ratios)
 
 ## IB Math Applications and Interpretations
 

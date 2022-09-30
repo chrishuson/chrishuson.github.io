@@ -31,6 +31,8 @@ Lesson 1.6 access is through Google Classroom
 
 [Lession 2.2, 2.3, 2.4 Ratio, percentage, units](SAT2023/02-2+Khan-ratios)
 
+[Lesson 2.2b Ratio and proportion word problems](SAT2023/02-2b-ratio-problems)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)

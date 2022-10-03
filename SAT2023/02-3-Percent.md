@@ -4,7 +4,7 @@ author: Chris Huson
 date: 3 October 2022
 output: 
   beamer_presentation:
-    aspectratio: 169
+classoption: "aspectratio=169"
 ---
 
 # 2.3 Percentages
@@ -29,8 +29,8 @@ A fish farmer stocks her fish tanks with a ratio of 5 talapia to 3 trout. If she
 >   | ------- | ----- |
 >   | 5 | 3 |
 >   | 300 | ? |
-> - $$\frac{5 \text{ talapia}}{3 \text{ trout}} = \frac{300 \text{ talapia}}{x \text{ trout}}$$
-> - $$ 300 \text{ talapia} \times \frac{3 \text{ trout}}{5 \text{ talapia}} = $$
+> - $\displaystyle \frac{5 \text{ talapia}}{3 \text{ trout}} = \frac{300 \text{ talapia}}{x \text{ trout}}$
+> - $$\hspace{3cm} 300 \text{ talapia} \times \frac{3 \text{ trout}}{5 \text{ talapia}} = $$
 
 # Ratio and proportion example 2
 

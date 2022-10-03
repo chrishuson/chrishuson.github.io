@@ -33,6 +33,8 @@ Lesson 1.6 access is through Google Classroom
 
 [Lesson 2.2b Ratio and proportion word problems](SAT2023/02-2b-ratio-problems)
 
+[Lesson 2.3 Percentages](SAT2023/02-3-Percent) [pdf](SAT2023/02-3-Percent.pdf)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)

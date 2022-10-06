@@ -9,6 +9,8 @@
 
 [Lessons](geometry)
 
+[Images](geometry-images.md)
+
 ## SAT Preparation
 
 [Course Plan](SAT2023/plan-SAT2023)

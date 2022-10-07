@@ -60,11 +60,13 @@ $\overline{RS} \cong \overline{ST}$
 
 ![Rainfall plot](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/graphics/rainfall.png)
 
-![Alt Dr. Huson](Chris_Huson.jpg)
+![Alt Dr. Huson](./images/Chris_Huson.jpg)
 
 html tags for image size
 
-    <img src="image.png" width="200" height="100">
+<center>
+<img src="./images/Chris_Huson.jpg" width="100" height="120">
+</center>
 
 ## Jupyter Notebooks
 

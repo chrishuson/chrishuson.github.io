@@ -17,27 +17,23 @@
 
 [Course Plan](SAT2023/plan-SAT2023)
 
-[Lessons 1.1 - 1.3](SAT2023/01-Slides-Algebra)
+Unit 1: Heart of Algebra
 
-Lesson 1.4 access is through Google Classroom
+- [1.1 - 1.3](SAT2023/01-Slides-Algebra)
+- 1.4 access is through Google Classroom
+- [1.5](SAT2023/01b-Slides-Algebra)
+- 1.6 access is through Google Classroom
+- [1.7 Algebra fluency](SAT2023/01-7-Slides-Fluency)
+- [1.8 Graphing systems of equations](SAT2023/01-8-Slides-graphing-systems)
+- SAT no-Calculator quiz [solutions](SAT2023/SAT-Quiz-solutions-22Sept.pdf)
 
-[Lesson 1.5](SAT2023/01b-Slides-Algebra)
+Unit 2: Problem Solving and data analysis
 
-Lesson 1.6 access is through Google Classroom
-
-[Lesson 1.7 Algebra fluency](SAT2023/01-7-Slides-Fluency)
-
-[Lesson 1.8 Graphing systems of equations](SAT2023/01-8-Slides-graphing-systems)
-
-[SAT no Calculator quiz solutions](SAT2023/SAT-Quiz-solutions-22Sept.pdf)
-
-[Lesson 2.1 Ratio and proportion intro](SAT2023/02-1-ratios+quiz-review)
-
-[Lession 2.2, 2.3, 2.4 Ratio, percentage, units](SAT2023/02-2+Khan-ratios)
-
-[Lesson 2.2b Ratio and proportion word problems](SAT2023/02-2b-ratio-problems)
-
-[Lesson 2.3 Percentages](SAT2023/02-3-Percent) [(pdf)](SAT2023/02-3-Percent.pdf) [(html)](SAT2023/02-3-Percent_html)
+- [2.1 Ratio and proportion intro](SAT2023/02-1-ratios+quiz-review)
+- [2.2, 2.3, 2.4 Ratio, percentage, units](SAT2023/02-2+Khan-ratios)
+- [2.2b Ratio and proportion word problems](SAT2023/02-2b-ratio-problems)
+- [2.3 Percentages](SAT2023/02-3-Percent) [(pdf)](SAT2023/02-3-Percent.pdf) [(html)](SAT2023/02-3-Percent_html)
+- [2.6 Ratio & proportions](02-6-ratio+proportions2)
 
 ## IB Math Applications and Interpretations
 

@@ -1,7 +1,7 @@
 ---
-title: "2.3 Percent problems"
+title: "2.6 Ratio, proportions, and units (continued)"
 author: Chris Huson
-date: 3 October 2022
+date: 11 October 2022
 presentation:
   width: 1200
   height: 675
@@ -10,19 +10,18 @@ presentation:
 
 <!-- slide -->
 
-## 2.6 Percentages
+### 2.6 Ratio, proportions, and units
 
 Learning Target: I can solve problems with percentages
 Tuesday 11 October
 
-Do Now: Upload Khan Academy problem log screenshot in Google Classroom
-Calculator check
 
-Lesson
+- Do Now: Google Classroom (Khan problem log)
+- Calculator check
 
-- Three methods for ratio problems (review)
+- Group work
 - [2.3 Percentages Khan Academy video](https://www.khanacademy.org/test-prep/sat/x0a8c2e5f:untitled-652/x0a8c2e5f:problem-solving-and-data-analysis-lessons-by-skill/a/gtp--sat-math--article--percents--lesson?modal=1)
-- Homework: View remaining Khan videos on percentages, practice problems
+- Homework: Khan practice problems
 
 Test Thursday
 <!-- slide -->

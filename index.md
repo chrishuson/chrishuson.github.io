@@ -33,7 +33,7 @@ Unit 2: Problem Solving and data analysis
 - [2.2, 2.3, 2.4 Ratio, percentage, units](SAT2023/02-2+Khan-ratios)
 - [2.2b Ratio and proportion word problems](SAT2023/02-2b-ratio-problems)
 - [2.3 Percentages](SAT2023/02-3-Percent) [(pdf)](SAT2023/02-3-Percent.pdf) [(html)](SAT2023/02-3-Percent_html)
-- [2.6 Ratio & proportions](02-6-ratio+proportions2)
+- [2.6 Ratio & proportions](SAT2023/02-6-ratio+proportions2)
 
 ## IB Math Applications and Interpretations
 

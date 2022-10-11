@@ -11,13 +11,12 @@ presentation:
 <!-- slide -->
 $\hspace{5cm}$ Tuesday 11 October
 
-### 2.6 Ratio, proportions, and units
+### 2.6 Ratio, proportion, units, \& percent
 
-Learning Target: I can solve problems with percentages
+Learning Target: I can solve problems with proportions
 
 - Do Now: Google Classroom (Khan problem log)
 - Calculator check
-
 - Group work problems
 - Homework: Khan practice problems [link](https://www.khanacademy.org/mission/sat)
 
@@ -44,7 +43,7 @@ B. \$455  $\hspace{2cm}$ D. \$524
 
 - $P_{wholesale} \times 1.15 = \$299$ <!-- .element: class="fragment" data-fragment-index="2" -->
 - $P=\$260$ <!-- .element: class="fragment" data-fragment-index="2" -->
-- $\$260 \times 1.75 = \$455$ <!-- .element: class="fragment" data-fragment-index="2" -->
+- $(\$260) \times 1.75 = \$455$ <!-- .element: class="fragment" data-fragment-index="2" -->
 
 <!-- slide -->
 

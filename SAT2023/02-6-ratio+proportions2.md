@@ -24,15 +24,19 @@ Learning Target: I can solve problems with proportions
 
 <!-- slide -->
 
-Scientists estimate that the Pacific Plate, one of Earth’s tectonic plates, has moved about 1,060 kilometers in the past 10.3 million years. What was the average speed of the Pacific Plate during that time period, in _centimeters_ per year?
+1. Scientists estimate that the Pacific Plate, one of Earth’s tectonic plates, has moved about 1,060 kilometers in the past 10.3 million years. What was the average speed of the Pacific Plate during that time period, in _centimeters_ per year?
 
 A. 1.03 $\hspace{2cm}$ C. 103
 B. 10.3  $\hspace{2cm}$ D. 1,030
-- $$\frac{1,060 \text{ km}}{10,300,000 \text{ years}} \times \frac{100,000 \text{ cm}}{1 \text{ km}} = 10.291... \text{ cm/year}$$ <!-- .element: class="fragment" data-fragment-index="2" -->
+- $$\frac{1,060 \text{ km}}{10,300,000 \text{ years}} \times \frac{100,000 \text{ cm}}{1 \text{ km}} = 10.291... \text{ cm/year}$$ <!-- .element: class="fragment" data-fragment-index="1" -->
 
 <!-- slide -->
 
 2. County Y consists of two districts. One district has an area of 30 square miles and a population density of 370 people per square mile, and the other district has an area of 50 square miles and a population density of 290 people per square mile. What is the population density, in people per square mile, for all of County Y?
+
+- $Pop_{total} = (30 \times 370) + (50 \times 290) = 25,600$ <!-- .element: class="fragment" data-fragment-index="1" -->
+- $Area_{total} = 30 + 50 = 80$ <!-- .element: class="fragment" data-fragment-index="1" -->
+- $Density_{total} = \frac{25,600}{80} = 320$ people per square mile<!-- .element: class="fragment" data-fragment-index="1" -->
 
 <!-- slide -->
 
@@ -41,24 +45,12 @@ B. 10.3  $\hspace{2cm}$ D. 1,030
 A. \$359  $\hspace{2cm}$ C. \$479 
 B. \$455  $\hspace{2cm}$ D. \$524
 
-- $P_{wholesale} \times 1.15 = \$299$ <!-- .element: class="fragment" data-fragment-index="2" -->
-- $P=\$260$ <!-- .element: class="fragment" data-fragment-index="2" -->
-- $(\$260) \times 1.75 = \$455$ <!-- .element: class="fragment" data-fragment-index="2" -->
+- $P_{wholesale} \times 1.15 = \$299$ <!-- .element: class="fragment" data-fragment-index="1" -->
+- $P_{wholesale}=\$260$ <!-- .element: class="fragment" data-fragment-index="1" -->
+- $(\$260) \times 1.75 = \$455$ <!-- .element: class="fragment" data-fragment-index="1" -->
 
 <!-- slide -->
 
-## Ratio and proportion example
+[Table Data video](https://www.khanacademy.org/test-prep/sat/sat-math-practice/new-sat-problem-solving-data-analysis/v/sat-math-q7-easier)
 
-- A fish farmer stocks her fish tanks with a ratio of 5 talapia to 3 trout. If she puts 300 talapia into the tanks, how many trout should she add?  
-
- - Model the problem 3 ways: a table, a proportion, and a ratio calculation with units  
-
-> | talapia | trout |
-> | ------- | ----- |
-> | 5 | 3 |
-> | 300 | ? | <!-- .element: class="fragment" data-fragment-index="1" -->
- 
-- $\displaystyle \frac{5 \text{ talapia}}{3 \text{ trout}} = \frac{300 \text{ talapia}}{x \text{ trout}}$ <!-- .element: class="fragment" data-fragment-index="2" -->
-
-- $$\hspace{3cm} 300 \text{ talapia} \times \frac{3 \text{ trout}}{5 \text{ talapia}} = $$ <!-- .element: class="fragment" data-fragment-index="3" -->
-
+![Khan "easy" problem](ice-cream-datatable.png)

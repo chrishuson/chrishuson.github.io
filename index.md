@@ -67,7 +67,7 @@ I hope you find these images as inspirational as I do
 
 [My throughts on technical writing](Written-work)
 
-
+[Ode to Joy](https://twitter.com/i/status/1581055777896161280)
 [BouncyBalls noise meter](https://bouncyballs.org/)
 [Class Room Screen](https://classroomscreen.com/)
 

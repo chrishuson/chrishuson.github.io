@@ -50,4 +50,4 @@ Jumprope online survey
 
 [Table Data video](https://www.khanacademy.org/test-prep/sat/sat-math-practice/new-sat-problem-solving-data-analysis/v/sat-math-q7-easier)
 
-![Khan "easy" problem](ice-cream-datatable.png)
+![Khan "easy" problem](../ice-cream-datatable.png)

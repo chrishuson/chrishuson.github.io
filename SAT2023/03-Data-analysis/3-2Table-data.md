@@ -15,7 +15,7 @@ $\hspace{5cm}$ Tuesday 18 October
 
 Learning Target: I can read and interpret table data
 
-- Do Now: Solve for $x$ such that $9f(x)=0$
+- Do Now: Solve for $x$ such that $f(x)=0$
 $$f(x)=x^2-5x-24$$
 - *Calculator check*
 - Group work problems

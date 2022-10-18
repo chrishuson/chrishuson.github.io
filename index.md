@@ -38,6 +38,7 @@ Unit 2: Problem Solving
 Unit 3: Data analysis
 
 - [3.1 Test debrief](SAT2023/03-Data-analysis/3-1Test-debrief)
+- [3.2 Table data](SAT2023/03-Data-analysis/3-2Table-data)
 
 ## IB Math Applications and Interpretations
 

@@ -265,13 +265,14 @@ pre[data-line] .line-highlight[data-end]:after {
 
 <h2 class="mume-header" id="formatting">Formatting</h2>
 
-<h3 class="mume-header" id="markdown-checkboxes">markdown checkboxes</h3>
-
-<p>[x] this is a complete item</p>
-<p>[ ] this is an incomplete item</p>
 <p><em>italics</em><br>
 <strong>bold</strong></p>
-<p>(parentheses)</p>
+<p style="text-align:right; color:red"> 
+    Your Right Aligned Text
+</p>
+<div class="row">
+    <button type="button" style="margin-top : 20px; border-radius: 15px" class="btn btn-primary">View Profile</button>
+</div>
 <ol>
 <li>Numbered</li>
 <li>lists</li>
@@ -280,6 +281,8 @@ pre[data-line] .line-highlight[data-end]:after {
 <li>Bullet</li>
 <li>lists</li>
 </ul>
+<p>[x] checklist completed item<br>
+[ ] this is an incomplete item</p>
 <blockquote>
 <p>Block quote<br>
 text</p>
@@ -337,14 +340,13 @@ M1001 80h400000v40h-400000z"/></svg></span></span></span><span class="vlist-s">&
 \tikz{\draw (0,0)--(2,1);}</p>
 <h2 class="mume-header" id="graphics-and-images">Graphics and images</h2>
 
-<center>
-![Geogebra triangle graph](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/graphics/06triangle.png)
-</center>
+<p><img src="https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/graphics/06triangle.png" alt="Geogebra triangle graph"></p>
 <p><img src="https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/graphics/rainfall.png" alt="Rainfall plot"></p>
-<p><img src="Chris_Huson.jpg" alt="Alt Dr. Huson"></p>
+<p><img src="./images/Chris_Huson.jpg" alt="Alt Dr. Huson"></p>
 <p>html tags for image size</p>
-<pre class="language-text">&lt;img src=&quot;image.png&quot; width=&quot;200&quot; height=&quot;100&quot;&gt;
-</pre>
+<center>
+<img src="./images/Chris_Huson.jpg" width="100" height="120">
+</center>
 <h2 class="mume-header" id="jupyter-notebooks">Jupyter Notebooks</h2>
 
 <p><a href="Pandas_Notes_Oct18">link to Pandas Notes notebook</a></p>
@@ -354,11 +356,7 @@ M1001 80h400000v40h-400000z"/></svg></span></span></span><span class="vlist-s">&
       <div class="md-sidebar-toc"><ul>
 <li><a href="#markdown-notes">Markdown notes</a>
 <ul>
-<li><a href="#formatting">Formatting</a>
-<ul>
-<li><a href="#markdown-checkboxes">markdown checkboxes</a></li>
-</ul>
-</li>
+<li><a href="#formatting">Formatting</a></li>
 <li><a href="#mathematics-formulas-basic-latex">Mathematics formulas (basic LaTeX)</a></li>
 <li><a href="#geometry-notation">Geometry notation</a></li>
 <li><a href="#rendering-latex-code">Rendering LaTeX code</a></li>

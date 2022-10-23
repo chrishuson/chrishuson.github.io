@@ -2,16 +2,17 @@
 
 ## Formatting
 
-### markdown checkboxes
-
-[x] this is a complete item
-
-[ ] this is an incomplete item
-
 *italics*
 **bold**
 
-(parentheses)
+<p style="text-align:right; color:red"> 
+    Your Right Aligned Text
+</p>
+
+<div class ="row">
+    <button type="button" style= "margin-top : 20px; border-radius: 15px"
+    class="btn btn-primary">View Profile</button>
+</div>
 
 1. Numbered
 1. lists
@@ -19,13 +20,15 @@
 - Bullet
 - lists
 
+[x] checklist completed item
+[ ] this is an incomplete item
+
 > Block quote
 > text
 
     Code section:
     if return_code == TRUE
         then fail = 1
-
 
 Table | Column 1 | Column 2
 ---|:---:|---:
@@ -36,6 +39,7 @@ Geometry | Shapes | 7, 10
 (horizontal rule)
 
 ## Mathematics formulas (basic LaTeX)
+
 LaTeX markdown is not being rendered by GitHub Pages' automatic process. A version converted to html by Markdown Preview Enhanced is [here](sandbox-rendered).
 
 The Pythagorean formula and distance formula

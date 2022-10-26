@@ -9,7 +9,7 @@ presentation:
 ---
 
 <!-- slide -->
-$\hspace{5cm}$ Tuesday 27 October
+$\hspace{5cm}$ Thursday 27 October
 
 ### 3.7 Pretest review
 
@@ -21,13 +21,14 @@ Round table peer review
 
 <!-- slide -->
 
-Unit 3 problem sets
+Unit 3 problem sets (due before test)
 
 - 3.1 Classwork, homework
 - 3.2 Classwork, homework, extension
-- 3.3 Classwork, homework
+- 3.3 Deltamath intro, printed classwork, homework
 - 3.4 Deltamath
 - 3.5 Deltamath classwork, printed homework
+- 3.6 Printed classwork, Deltamath homework
 - 3.7 Classwork pretest
 
 <!-- slide -->

@@ -7,7 +7,9 @@
 
 [Unit Plans](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/Plan-Geom-Units.pdf)
 
-[Lessons](geometry)
+[Unit 1: Length and area](Geom2023/geometry)
+
+[Unit 3: Parallel lines and transversals](Geom2023/03Pretest.md)
 
 [Protractor use](https://www.geogebra.org/m/tnp9hxsd)
 

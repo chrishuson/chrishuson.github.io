@@ -43,6 +43,7 @@ Unit 3: Data analysis
 - [3.2 Table data](SAT2023/03-Data-analysis/3-2Table-data)
 - 3.3, 3.4, 3.5 Khan Academy Table data, scatter plots, graph features problems
 - [3.6 Curves](SAT2023/03-Data-analysis/3-6Function-curves)
+- [3.7, 3.8 Exponential functions, practice test](SAT2023/03-Data-analysis/3-7Exponential-vs-linear)
 
 ## IB Math Applications and Interpretations
 

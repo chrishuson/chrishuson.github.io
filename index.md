@@ -45,6 +45,10 @@ Unit 3: Data analysis
 - [3.6 Curves](SAT2023/03-Data-analysis/3-6Function-curves)
 - [3.7, 3.8 Exponential functions, practice test](SAT2023/03-Data-analysis/3-7Exponential-vs-linear)
 
+Unit 4: Linear and exponential models
+
+- [4.1 Compound growth](SAT2023/04-Linear+exponentials/4-1Exponential-functions)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)

@@ -79,11 +79,13 @@ I hope you find these images as inspirational as I do
 [Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))
 
-[My throughts on technical writing](Written-work)
+[My thoughts on technical writing](Written-work)
 
 [Ode to Joy](https://twitter.com/i/status/1581055777896161280)
 [BouncyBalls noise meter](https://bouncyballs.org/)
 [Class Room Screen](https://classroomscreen.com/)
+
+[Music and image slides](music-images)
 
 [ibo.org](https://ibo.org)  
 
@@ -91,7 +93,6 @@ I hope you find these images as inspirational as I do
 [Contact](Contact)
 
 [Sandbox](sandbox)
-
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456

@@ -13,7 +13,7 @@
 
 [Protractor use](https://www.geogebra.org/m/tnp9hxsd)
 
-[Images](geometry-images.md)
+[Images](Geom2023/geometry-images.md)
 
 ## SAT Preparation
 

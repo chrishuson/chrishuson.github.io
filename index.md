@@ -13,7 +13,7 @@
 
 [Protractor use](https://www.geogebra.org/m/tnp9hxsd)
 
-[Images](geometry-images.md)
+[Images](Geom2023/geometry-images.md)
 
 ## SAT Preparation
 
@@ -45,6 +45,10 @@ Unit 3: Data analysis
 - [3.6 Curves](SAT2023/03-Data-analysis/3-6Function-curves)
 - [3.7, 3.8 Exponential functions, practice test](SAT2023/03-Data-analysis/3-7Exponential-vs-linear)
 
+Unit 4: Linear and exponential models
+
+- [4.1 Compound growth](SAT2023/04-Linear+exponentials/4-1Exponential-functions)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)
@@ -75,11 +79,13 @@ I hope you find these images as inspirational as I do
 [Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))
 
-[My throughts on technical writing](Written-work)
+[My thoughts on technical writing](Written-work)
 
 [Ode to Joy](https://twitter.com/i/status/1581055777896161280)
 [BouncyBalls noise meter](https://bouncyballs.org/)
 [Class Room Screen](https://classroomscreen.com/)
+
+[Music and image slides](music-images)
 
 [ibo.org](https://ibo.org)  
 
@@ -87,7 +93,6 @@ I hope you find these images as inspirational as I do
 [Contact](Contact)
 
 [Sandbox](sandbox)
-
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456

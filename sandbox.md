@@ -72,6 +72,10 @@ html tags for image size
 <img src="./images/Chris_Huson.jpg" width="100" height="120">
 </center>
 
+## Slides
+
+- "Fragments" <!-- .element: class="fragment" data-fragment-index="1" -->
+
 ## Jupyter Notebooks
 
 [link to Pandas Notes notebook](Pandas_Notes_Oct18)

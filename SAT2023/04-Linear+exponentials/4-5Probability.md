@@ -18,7 +18,7 @@ $\hspace{5cm}$ Wednesday 9 November
   - Upload the screenshot of your weekend SAT practice test to Google classroom
   - What is the probability of rolling a prime number with a single die?
 - Lesson: Groupwork SAT practice problems
-- Homework: Khan Academy SAT practice
+- Homework: Khan Academy SAT practice (test tomorrow)
 
 <!-- slide -->
 

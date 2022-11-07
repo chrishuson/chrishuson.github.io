@@ -48,6 +48,8 @@ Unit 3: Data analysis
 Unit 4: Linear and exponential models
 
 - [4.1 Compound growth](SAT2023/04-Linear+exponentials/4-1Exponential-functions)
+- [4.3 Problem set](SAT2023/04-Linear+exponentials/4-3CW_Compound-interest.pdf)
+- [4.5 Probability and statistics](SAT2023/04-Linear+exponentials/4-5Probability)
 
 ## IB Math Applications and Interpretations
 

@@ -88,7 +88,7 @@ I hope you find these images as inspirational as I do
 [Class Room Screen](https://classroomscreen.com/)
 
 [Music and image slides](music-images)
-
+[NYC Neighborhoods map](images/nyc-neighborhoods-2022.pdf)
 [ibo.org](https://ibo.org)  
 
 ## About / Contact

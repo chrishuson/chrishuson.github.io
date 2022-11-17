@@ -98,4 +98,4 @@ I hope you find these images as inspirational as I do
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456
-Last update: 15 September 2022
+Last update: 17 November 2022

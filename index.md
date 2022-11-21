@@ -51,6 +51,10 @@ Unit 4: Linear and exponential models
 - [4.3 Problem set](SAT2023/04-Linear+exponentials/4-3CW_Compound-interest.pdf)
 - [4.5 Probability and statistics](SAT2023/04-Linear+exponentials/4-5Probability)
 
+Unit : Probability and statistics
+
+- [5.5 Test review, calulator use](SAT2023/05-Probability+statistics/5-5Test-review)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)

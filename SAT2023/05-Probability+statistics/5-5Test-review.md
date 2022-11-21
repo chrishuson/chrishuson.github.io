@@ -22,12 +22,6 @@ $$f(x)=x^2-4x \text{ and } y=-x$$
 
 <!-- slide -->
 
-### Probability is a fraction, $0 \leq P(x) \leq 1$
-
-- Probability = number of favorable outcomes/total number of possible outcomes
-
-<!-- slide -->
-
 ### Descriptive statistics
 
 - Skills check pg. 96

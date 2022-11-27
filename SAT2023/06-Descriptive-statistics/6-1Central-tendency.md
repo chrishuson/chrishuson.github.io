@@ -15,7 +15,7 @@ $\hspace{5cm}$ Monday 28 November
 
 - Learning Target: I can calculate mean, median, and mode
 - Do Now: Find the solutions by graphing on a calculator
-$$f(x)=x^2-4x \text{ and } y=-x$$
+$$f(x)=x^2-3x-8 \text{ and } x-y=3$$
 - Lesson: Using calculator statistics functions
 - Homework: Khan Academy statistics unit due Friday
 

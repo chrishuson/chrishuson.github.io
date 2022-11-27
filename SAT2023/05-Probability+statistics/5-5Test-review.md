@@ -11,7 +11,7 @@ presentation:
 <!-- slide -->
 $\hspace{5cm}$ Monday 21 November
 
-### 5.5  Test review, calculator use
+### 5.5 Test review, calculator use
 
 - Learning Target: I can use calculator graph, table functions
 - Do Now: Find the solutions by graphing on a calculator
@@ -29,5 +29,3 @@ $$f(x)=x^2-4x \text{ and } y=-x$$
 - Mean, median, mode
 - Quantitative vs qualitative (categorical) data
 - Continuous vs discrete
-
-<!-- slide -->

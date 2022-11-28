@@ -32,3 +32,5 @@ What is the circumference of a pumpkin divided by its diameter?
 <!-- slide -->
 
 [Ode to Joy](https://twitter.com/i/status/1581055777896161280)
+
+[Lang Lang classical piano](https://twitter.com/TansuYegen/status/1596807427717931008)

@@ -45,6 +45,8 @@ $$\sqrt{49}= +7$$
 
 #### The *Pythagorean formula*
 
+$$a^2+b^2=c^2$$
+
 The distance between points $(x_1,y_1)$ and $(x_2,y_2)$ is
 
 $$\displaystyle d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$

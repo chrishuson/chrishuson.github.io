@@ -11,7 +11,7 @@
 
 [Unit 3: Parallel lines and transversals](Geom2023/03Pretest.md)
 
-[Unit 5: Pythagorean theorem](5-3Distance-formula)
+[Unit 5: Pythagorean theorem](Geom2023/5-3Distance-formula)
 
 [Protractor use](https://www.geogebra.org/m/tnp9hxsd)
 

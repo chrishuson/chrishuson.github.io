@@ -46,3 +46,14 @@ $\hspace{5cm}$ Tuesday 29 November
 - Learning Target: I can calculate variance, standard deviation
 - Lesson: range, quartiles, $v$, $\sigma$, pages 106-112
 - SAT practice test Thursday
+
+<!-- slide -->
+
+$\hspace{4cm}$ Wednesday 30 November
+
+### 6.3 Quartiles, IQR
+
+- Learning Target: I can compute the five-figure summary
+- Do Now: Example 3a page 101
+- Lesson: Calculator summary statistics, pages 106-112
+- SAT practice test Thursday

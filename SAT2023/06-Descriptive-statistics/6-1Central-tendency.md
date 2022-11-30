@@ -57,3 +57,12 @@ $\hspace{4cm}$ Wednesday 30 November
 - Do Now: Example 3a page 101
 - Lesson: Calculator summary statistics, pages 106-112
 - SAT practice test Thursday
+
+<!-- slide -->
+
+### 6.3 Calculator statistics functions
+
+- Learning Target: I can use a calculator for $v$, $\sigma$
+- Do Now: Example 3a page 101
+- Lesson: quartiles, Example 6 page 109
+- SAT practice test tomorrow

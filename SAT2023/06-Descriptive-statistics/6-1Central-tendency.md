@@ -60,9 +60,30 @@ $\hspace{4cm}$ Wednesday 30 November
 
 <!-- slide -->
 
-### 6.3 Calculator statistics functions
+$\hspace{4cm}$ Thursday 1 December
 
-- Learning Target: I can use a calculator for $v$, $\sigma$
-- Do Now: Example 3a page 101
-- Lesson: quartiles, Example 6 page 109
-- SAT practice test tomorrow
+### 6.4 SAT Practice test
+
+- with calculator
+- Multiple choice questions 1 - 30
+- Whole period (actual test is 38 problems in 55 minutes)
+
+<!-- slide -->
+
+$\hspace{4cm}$ Monday 5 December
+
+### 6.5 Review SAT practice test
+
+- Learning Target: I can learn from my mistakes
+- Do Now: Solve a system by graphing
+- Lesson: Students work problems from exam
+
+<!-- slide -->
+
+$\hspace{4cm}$ Tuesday 6 December
+
+### 6.6 Presentation of data
+
+- Learning Target: I can present and interpret graphically
+- Do Now: Review the 4 graphs of zoo visitors (pp 119-120)
+- Lesson: Histograms and box plots, pages 119-132

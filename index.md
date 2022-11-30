@@ -59,7 +59,7 @@ Unit 5: Introduction to probability and statistics
 
 Unit 6: Descriptive statistics
 
-- [6.1 Measures of central tendency](SAT2023/06-Descriptive-statistics/6-1Central-tendency)
+- [6.1-6 Measures of central tendency, dispersion, graphs](SAT2023/06-Descriptive-statistics/6-1Central-tendency)
 
 ## IB Math Applications and Interpretations
 

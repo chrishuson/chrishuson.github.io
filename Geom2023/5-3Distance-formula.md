@@ -50,3 +50,26 @@ $$a^2+b^2=c^2$$
 The distance between points $(x_1,y_1)$ and $(x_2,y_2)$ is
 
 $$\displaystyle d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
+
+<!-- slide -->
+
+$\hspace{4cm}$ Friday 2 December
+
+### 5.5 Right triangle situations
+
+- Learning Target: I can calculate distance in context
+- Do Now: Two right triangle's legs measure 2 \& 4. Calculate the hypotenuse.
+- Lesson: Apply the Pythagorean formula to situations
+- Homework: Deltamath distance practice
+
+<!-- slide -->
+
+#### 1) Wire to a pole
+
+- A telephone pole measures 25 feet long. From the top of the pole a wire is run to a stake in the ground 10 feet from the pole's base. Find the length of the wire to the nearest inch.
+
+<!-- slide -->
+
+#### 2) Ladder against a wall
+
+- Lisa is trying to reach a second story window with a ladder. The bottom of the window is 22 feet above grade. She sits a 30 foot ladder twelve feet away from the building and leans it against the wall. Does the top of the ladder reach the window sill?

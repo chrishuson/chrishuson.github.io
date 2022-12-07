@@ -107,3 +107,14 @@ $\hspace{4cm}$ Thursday 8 December
 - Learning Target: I can present and interpret graphically
 - Do Now: Review the 4 graphs of zoo visitors (pp 119-120)
 - Lesson: Histograms and box plots, pages 119-132
+
+<!-- slide -->
+
+### Sales tax analysis (group work)
+
+1. Use the data provided in Google Classroom for an analysis of the sales tax rates of different states.
+2. Discuss what calculations to perform and include them.
+3. What graph would be most insightful? Add it.
+4. Format the spreadsheet for presentation.
+
+What additional opportunities does the data from all 50 states offer? Explore some of them with the spreadsheet.

@@ -84,6 +84,26 @@ $\hspace{4cm}$ Tuesday 6 December
 
 ### 6.6 Presentation of data
 
+- Learning Target: I can calculate standard deviation
+- Do Now: Open spreadsheet model in Google classroom
+- Lesson: Table calculations in Google sheets
+
+<!-- slide -->
+
+$\hspace{4cm}$ Wednesday 7 December
+
+### 6.7 Sampling techniques
+
+- Learning Target: I understand the process to collect data
+- Do Now: Rate your ability to use a spreadsheet compared to your peers
+- Lesson: Statistical approaches and terminology, pp 113-119
+
+<!-- slide -->
+
+$\hspace{4cm}$ Thursday 8 December
+
+### 6.8 Presentation of data
+
 - Learning Target: I can present and interpret graphically
 - Do Now: Review the 4 graphs of zoo visitors (pp 119-120)
 - Lesson: Histograms and box plots, pages 119-132

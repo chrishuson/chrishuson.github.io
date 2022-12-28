@@ -5,7 +5,7 @@
 *italics*
 **bold**
 
-<p style="text-align:right; color:red"> 
+<p style="text-align:right; color:red">
     Your Right Aligned Text
 </p>
 

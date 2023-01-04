@@ -37,7 +37,24 @@ $\hspace{5cm}$ Wednesday 4 January
 
 - Learning Target: I can estimate correlation
 - Lesson: Quantifying linear fit, pages 262-273
-- SAT practice test Thursday
+
+<!-- slide -->
+
+#### STEM Correlation (Example 2 p269)
+
+Eight students' course results
+
+| Course | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Math (y) | 20 | 25 | 28 | 30 | 32 | 37 | 42 | 48 |
+| Biology (x) | 24 | 20 | 22 | 21 | 25 | 28 | 30 | 32 |
+
+
+[Desmos link](https://www.desmos.com/calculator/kbjsrfa0hc)
+
+<!-- slide -->
+
+![scatterplot](../images/desmos-correlation.png)
 
 <!-- slide -->
 

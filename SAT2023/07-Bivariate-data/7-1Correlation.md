@@ -60,7 +60,7 @@ Eight students' course results
 
 $\hspace{4cm}$ Thursday 5 January
 
-### 7.3 Quartiles, IQR
+### 7.3 Graphing bivariate data and calculating correlation
 
 - Learning Target: I can compute the five-figure summary
 - Do Now: Example 3a page 101
@@ -71,11 +71,22 @@ $\hspace{4cm}$ Thursday 5 January
 
 $\hspace{4cm}$ Monday 9 January
 
-### 7.4 SAT Practice test
+### 7.4 LT: I can plot a line of best fit
 
-- with calculator
-- Multiple choice questions 1 - 30
-- Whole period (actual test is 38 problems in 55 minutes)
+- Do Now: Categorize each term as one of 3 measures
+**Central Tendency | Spread | Bivariate Relationship**
+Range, Average, Correlation, IQR, Median, Standard deviation, Pearson's "r", Variance, Mode, Scatter plot,
+Non-linear, Outlier, Box & whisker plot
+
+- Khan Academy homework due tonight 10PM
+
+<!-- slide -->
+
+[link to Desmos graph](https://www.desmos.com/calculator/thq0jrxmy2)
+
+<!-- slide -->
+
+![Investigation 5 Solution](../images/Investigation5-pg275.png)
 
 <!-- slide -->
 

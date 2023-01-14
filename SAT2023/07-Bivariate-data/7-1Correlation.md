@@ -120,6 +120,17 @@ $\hspace{4cm}$ Tuesday 17 January
 
 <!-- slide -->
 
+#### Do Now: A 6-sided die is rolled 10 times
+
+- What is the mode?
+- List the results in alphabetic order
+
+| Outcome | a | b | c | d | e | f |
+| --- | --- | --- | --- | --- | --- | --- |
+| Frequency | 2 | 1 | 2 | 0 | 3 | 2 |
+
+<!-- slide -->
+
 $\hspace{4cm}$ Wednesday 18 January
 
 ### 7.8 LT: I can solve SAT problems

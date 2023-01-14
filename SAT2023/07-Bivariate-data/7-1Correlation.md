@@ -90,31 +90,61 @@ Non-linear, Outlier, Box & whisker plot
 
 <!-- slide -->
 
-$\hspace{4cm}$ Tuesday 10 January
-
-### 7.5 Review SAT practice test
-
-- Learning Target: I can learn from my mistakes
-- Do Now: Solve a system by graphing
-- Lesson: Students work problems from exam
-
-<!-- slide -->
-
 $\hspace{4cm}$ Wednesday 11 January
 
-### 7.6 Quartiles, IQR
+### 7.5 Pre-Exam: Bivariate data spreadsheet analysis
 
-- Learning Target: I can compute the five-figure summary
-- Do Now: Example 3a page 101
-- Lesson: Calculator summary statistics, pages 106-112
-- SAT practice test Thursday
+- Learning Target: I can employ predictive modeling
+- Lesson: Using a linear regression model to predict
+- Unit test tomorrow
 
 <!-- slide -->
 
 $\hspace{4cm}$ Thursday 12 January
 
-### 7.7 SAT Practice test
+### 7.6 Exam: Bivariate data graphing and calculations
 
-- with calculator
-- Multiple choice questions 1 - 30
-- Whole period (actual test is 38 problems in 55 minutes)
+- Google sheets spreadsheet based
+- Summary statistics, frequency table analysis
+- Scatter plot, correlation, and predictive modeling
+
+<!-- slide -->
+
+$\hspace{4cm}$ Tuesday 17 January
+
+### 7.7 LT: I can solve SAT problems
+
+- Do Now: Statistics calculator graphing
+- Word problems
+- Khan Academy homework due Friday 10PM
+
+<!-- slide -->
+
+$\hspace{4cm}$ Wednesday 18 January
+
+### 7.8 LT: I can solve SAT problems
+
+- Do Now: Statistics calculator graphing
+- Word problems
+- Khan Academy homework due Friday 10PM
+
+<!-- slide -->
+
+$\hspace{4cm}$ Thursday 19 January
+
+### 7.9 LT: SAT Practice test
+
+- Multiple choice
+- Word problems
+- Khan Academy homework due Friday 10PM
+
+<!-- slide -->
+
+$\hspace{4cm}$ Monday 23 January
+
+### 7.10 LT: SAT Practice test
+
+- Free response
+- Word problems
+- Next class Wednesday February 1st
+- Take Khan Academy SAT practice tests!

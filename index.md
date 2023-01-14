@@ -9,15 +9,21 @@
 
 [Unit 1: Length and area](Geom2023/geometry)
 
+[Unit 2: Angles](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/Slides/02-Slides_Angles.pdf)
+
 [Unit 3: Parallel lines and transversals](Geom2023/03Pretest.md)
 
+[Unit 4: Volume and solid geometry](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/Slides/04-Slides-Volume.pdf)
+
 [Unit 5: Pythagorean theorem](Geom2023/5-3Distance-formula)
+
+[Unit 6: Analytic geometry](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/Slides/06-Slides-Analytic-geometry.pdf)
 
 [Protractor use](https://www.geogebra.org/m/tnp9hxsd)
 
 [Images](Geom2023/geometry-images.md)
 
-## SAT Preparation
+## Precalculus - SAT Preparation
 
 [Course Plan](SAT2023/plan-SAT2023)
 
@@ -64,7 +70,7 @@ Unit 6: Descriptive statistics
 
 Unit 7: Bivariate data
 
-- [7.1 Bivariate data, correlation, regression](SAT2023/07-Bivariate-data/7-1Correlation)
+- [7.1-7.10 Bivariate data, correlation, regression](SAT2023/07-Bivariate-data/7-1Correlation)
 
 ## IB Math Applications and Interpretations
 

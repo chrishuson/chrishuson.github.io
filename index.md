@@ -98,7 +98,7 @@ We'll be using these mathematics tools. Get to know them!
 
 [Chat OpenAI](https://chat.openai.com/chat)
 [examples](AI-SAT-slope-problem.md)
-[essay example](../images/ChatAI-reflective-essay.png)
+[essay example](images/ChatAI-reflective-essay.png)
 
 Lesson websites and videos
 [Cut the Knot](https://www.cut-the-knot.org/geometry.shtml)

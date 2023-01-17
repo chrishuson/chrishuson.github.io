@@ -81,6 +81,7 @@ IB Syllabus, prior learning, topics
 [Prior year plans](IB2023/Plan_IB-archive) [(wide version)](IB2023/Plan_IB-wide-archive)
 
 ## Tools and resources
+
 We'll be using these mathematics tools. Get to know them!
 
 [DeltaMath](https://www.deltamath.com) Set up your account using your real name. My teacher ID is 546068.
@@ -97,6 +98,7 @@ We'll be using these mathematics tools. Get to know them!
 
 [Chat OpenAI](https://chat.openai.com/chat)
 [examples](AI-SAT-slope-problem.md)
+[essay example](../images/ChatAI-reflective-essay.png)
 
 Lesson websites and videos
 [Cut the Knot](https://www.cut-the-knot.org/geometry.shtml)

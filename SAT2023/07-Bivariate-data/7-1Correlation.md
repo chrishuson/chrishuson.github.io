@@ -115,7 +115,7 @@ $\hspace{4cm}$ Tuesday 17 January
 ### 7.7 LT: I can solve SAT problems
 
 - Do Now: Statistics calculator graphing
-- Word problems
+- Lesson: [Word problems](7-7SAT-stats-word-problems)
 - Khan Academy homework due Friday 10PM
 
 <!-- slide -->

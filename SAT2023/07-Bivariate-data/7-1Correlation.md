@@ -110,7 +110,7 @@ $\hspace{4cm}$ Thursday 12 January
 
 <!-- slide -->
 
-$\hspace{4cm}$ Tuesday 17 January
+$\hspace{4cm}$ Wednesday 18 January
 
 ### 7.7 LT: I can solve SAT problems
 

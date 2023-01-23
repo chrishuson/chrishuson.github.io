@@ -153,9 +153,20 @@ $\hspace{4cm}$ Thursday 19 January
 
 $\hspace{4cm}$ Monday 23 January
 
-### 7.10 LT: SAT Practice test
+### 7.9 LT: I can model data with a line of best fit
 
 - Free response
 - Word problems
 - Next class Wednesday February 1st
 - Take Khan Academy SAT practice tests!
+
+<!-- slide -->
+
+#### Do Now: A 6-sided die is rolled 10 times
+
+- What is the mode?
+- List the results in alphabetic order
+
+| Outcome | a | b | c | d | e | f |
+| --- | --- | --- | --- | --- | --- | --- |
+| Frequency | 2 | 1 | 2 | 0 | 3 | 2 |

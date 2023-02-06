@@ -2,9 +2,9 @@
 
 ## Simple math equation ##
 
-$a^2+b^2=c^2$
+$$a^2+b^2=c^2$$
 
-$\sqrt{b^2-4ac}$
+$$\sqrt{b^2-4ac}$$
 
 ## The equation of an ellipse
 

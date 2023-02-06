@@ -1,11 +1,5 @@
 # Geogebra embedded applet demo
 
-## Simple math equation ##
-
-$$a^2+b^2=c^2$$
-
-$$\sqrt{b^2-4ac}$$
-
 ## The equation of an ellipse
 
 $$\frac{(x-h)^2}{a^2}+\frac{(x-k)^2}{b^2}=1$$

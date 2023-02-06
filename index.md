@@ -108,6 +108,7 @@ I hope you find these images as inspirational as I do
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))
 
 [My thoughts on technical writing](Written-work)
+[embedded geogebra applet](geogebra-demo.md)
 
 [Ode to Joy](https://twitter.com/i/status/1581055777896161280)
 [BouncyBalls noise meter](https://bouncyballs.org/)

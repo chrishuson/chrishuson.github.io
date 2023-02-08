@@ -72,6 +72,11 @@ Unit 7: Bivariate data
 
 - [7.1-7.10 Bivariate data, correlation, regression](SAT2023/07-Bivariate-data/7-1Correlation)
 
+Unit 8: Probability
+
+- [8.1 Experimental probability](SAT2023/08-Probability/8-1Experimental-probability)
+- [8.5 SAT Practice test preparation](SAT2023/08-Probability/8-5Test-prep)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)
@@ -125,4 +130,4 @@ I hope you find these images as inspirational as I do
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456
-Last update: 17 November 2022
+Last update: 8 February 2023

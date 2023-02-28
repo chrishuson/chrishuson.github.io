@@ -76,6 +76,7 @@ Unit 8: Probability
 
 - [8.1 Experimental probability](SAT2023/08-Probability/8-1Experimental-probability)
 - [8.5 SAT Practice test preparation](SAT2023/08-Probability/8-5Test-prep)
+- [8.12 SAT bubbling practice, averaging problems](SAT2023/08-Probability/8-12SAT-free-response)
 
 ## IB Math Applications and Interpretations
 

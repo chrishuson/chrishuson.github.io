@@ -28,3 +28,12 @@ $\hspace{5cm}$ Monday 13 March
 - Develop and present using a formatted spreadsheet
 
 <!-- slide -->
+
+### US government reports
+
+- [Bureau of Labor Statistics](https://www.bls.gov/regions/new-york-new-jersey/news-release/occupationalemploymentandwages_newyork.htm) - [link to detailed list](https://www.bls.gov/oes/current/oes_35620.htm)
+- What are 3 occupations overrepresented in the NYC Metropolitan vs the rest of the US
+- Besides management, list the top five paying jobs listed
+- NY compensation is higher. What occupation has the biggest wage premium in NY?
+
+<!-- slide -->

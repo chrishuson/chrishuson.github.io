@@ -78,6 +78,12 @@ Unit 8: Probability
 - [8.5 SAT Practice test preparation](SAT2023/08-Probability/8-5Test-prep)
 - [8.12 SAT bubbling practice, averaging problems](SAT2023/08-Probability/8-12SAT-free-response)
 
+Unit 9: Applications - Apartment and housing search project
+
+Unit 10: Employment and career
+
+- [10.1 Occupations](SAT2023/10-Employment/10-1Occupations)
+
 ## IB Math Applications and Interpretations
 
 [Course Plan](IB2023/Plan_IB2023) [(alternative manually rendered wide version)](IB2023/Plan_IB2023-wide)

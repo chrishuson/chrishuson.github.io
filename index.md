@@ -115,6 +115,8 @@ We'll be using these mathematics tools. Get to know them!
 Lesson websites and videos
 [Cut the Knot](https://www.cut-the-knot.org/geometry.shtml)
 
+[A Mile of Pi](https://www.youtube.com/watch?v=0r3cEKZiLmg)
+
 I hope you find these images as inspirational as I do  
 [Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))

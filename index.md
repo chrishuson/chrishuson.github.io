@@ -108,6 +108,10 @@ We'll be using these mathematics tools. Get to know them!
 
 [Wolfram](https://mathworld.wolfram.com/topics/Geometry.html), see also his calculator, [Wolfram Alpha](https://www.wolframalpha.com/)
 
+[TeXMe](https://github.com/susam/texme) self-rendering math utility ([example](texme_example.html))
+
+[muboard.net](https://muboard.net/) math chalkboard ([example](muboard_example.html))
+
 [Chat OpenAI](https://chat.openai.com/chat)
 [examples](AI-SAT-slope-problem.md)
 [essay example](images/ChatAI-reflective-essay.png)

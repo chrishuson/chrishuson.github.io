@@ -1,5 +1,5 @@
 
-# BECA High School mathematics courses 2023-2024
+# BECA High School mathematics courses 2022-2023
 
 ## Geometry
 

@@ -1,10 +1,12 @@
 # Written Work
+
 - **Coherent:** Logical, step-by-step explanation, using examples
 - **Vocabulary:** Precise terminology, succinct
 - **Notation:** Algebra symbols, tables, trees, grids
 - **Audience:** Write for your classmates
 
-### Steps for writing longer technical papers
+## Steps for writing longer technical papers
+
 *Practice writing mathematics according to IB requirements, as per IA criteria.*
 **Proposal**
 - Define an *aim*, i.e. your goal. Include success criteria.
@@ -14,6 +16,7 @@
 - Draft Method section text
 
 **Method**
+
 - Collect data (survey, search, simulation, etc.)
 - Work interactively with spreadsheets, graphing software, math
 - Refine Method section, draft results and discussion.
@@ -22,6 +25,7 @@
 - Submit final draft.
 
 ### Math papers are not just a report. Show creativity!
+
 *Practice writing mathematics according to IB requirements, as per IA criteria.*
 **Criterion C: Personal engagement**
 - Address a personal interest; "make it your own"
@@ -29,12 +33,15 @@
 - Present mathematical ideas in your own way
 
 **Criterion D: Reflection**
+
 - Review, analyze, and evaluate the mathematics throughout the paper. Go beyond just describing results
 - Link to the aims, comment on what has been learned, consider limitations, and compare different mathematical approaches
 - Consider what's next, discuss the implications of results, strengths and weaknesses of approaches, and consider different perspectives
 
 ### The right way to **communicate** depends on the situation
+
 *How to send information and follow common conventions*
+
 - **Hardcopy:** Put a note in my mailbox in the office
 - **Text (cell phone):** brief, informal, immediate, transitory
 - **Email:** versatile, threaded, transitory or permanent (insecure)
@@ -48,6 +55,7 @@
   *If you are not paying for it, you're not the customer; you're the product being sold.*
 
 ### Common errors
+
 - Do follow MLA format, citing quotes and references, bibligraphy
 - Do not use an inappropriate fictional structure (instead, use an academic style, "The purpose of this paper is…")
 - Be careful using of color in graphs, particularly if printed in black and white
@@ -55,9 +63,9 @@
 - You may show full working by hand in appendix
 - Computer filenames: no special characters, blanks (dash -, underbar _ are ok)
 
-Resources
+### Resources
+
 - Writing checklists
 - Sentence starters
 - Templates: bibliography, formulas, whisker plots
 
-[Home](index), [Expectations](Expectations), [Writing](Written-work)

@@ -1,4 +1,4 @@
-## Writing to learn prompts
+# Writing to learn prompts
 
 - Explain and justify why exponents should be added when terms with the same base are multiplied (subtracted/divided).
 - Demonstrate the distributive property of multiplication over addition by restating multiplication as repeated addition.

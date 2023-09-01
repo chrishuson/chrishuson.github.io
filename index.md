@@ -1,8 +1,6 @@
 
 # BECA High School mathematics courses 2023-2024
 
-[11th grade: PreCalculus](https://raw.githubusercontent.com/chrishuson/course-files/master/docs/precalc)
-
 [11th grade: PreCalculus](https://math.huson.com/course-files/precalc)
 
 [12th grade: Career and Financial Management](https://math.huson.com/course-files/cfm)
@@ -37,16 +35,7 @@ We'll be using these mathematics tools. Get to know them!
 [Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))
 
-[My thoughts on technical writing](Written-work)
-[embedded geogebra applet](geogebra-demo.md)
-
-[Ode to Joy](https://twitter.com/i/status/1581055777896161280)
-[BouncyBalls noise meter](https://bouncyballs.org/)
-[Class Room Screen](https://classroomscreen.com/)
-
-[Music and image slides](music-images),
-[NYC Neighborhoods map](images/nyc-neighborhoods-2022.pdf),
-[ibo.org](https://ibo.org)  
+[Music and image slides](music-images), [Ode to Joy](https://twitter.com/i/status/1581055777896161280)
 
 ## About / Contact
 

@@ -1,6 +1,7 @@
 # Common errors
 
 ## (self-?) Assess Algebra prior knowledge
+
 - operating on fractions
 - precision, rounding
 - multistep substitution & calculator calculations

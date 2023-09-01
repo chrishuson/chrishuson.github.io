@@ -16,7 +16,7 @@ We'll be using these mathematics tools. Get to know them!
 [Geogebra](https://www.geogebra.org/geometry),
 [Graspable Math](https://graspablemath.com/canvas)
 
-### Advanced work
+## Advanced work
 
 [Wolfram](https://mathworld.wolfram.com/topics/Geometry.html), see also his calculator, [Wolfram Alpha](https://www.wolframalpha.com/)
 
@@ -24,11 +24,11 @@ We'll be using these mathematics tools. Get to know them!
 
 [muboard.net](https://muboard.net/) math chalkboard ([example](muboard_example.html))
 
-[Chat OpenAI](https://chat.openai.com/chat) with a 
+[Chat OpenAI](https://chat.openai.com/chat) with a
 [problem example](AI-SAT-slope-problem.md) and an
 [essay example](images/ChatAI-reflective-essay.png)
 
-### Lesson websites and videos
+## Videos and inspiration
 
 [A Mile of Pi](https://www.youtube.com/watch?v=0r3cEKZiLmg)
 

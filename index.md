@@ -13,13 +13,12 @@ We'll be using these mathematics tools. Get to know them!
 
 [DeltaMath](https://www.deltamath.com) Set up your account using your real name. My teacher ID is 546068.
 
-[Khan Academy](https://www.khanacademy.org/sat)
-
-[Desmos](https://www.desmos.com/calculator)
-
-[Geogebra](https://www.geogebra.org/geometry)
-
+[Khan Academy](https://www.khanacademy.org/sat),
+[Desmos](https://www.desmos.com/calculator),
+[Geogebra](https://www.geogebra.org/geometry),
 [Graspable Math](https://graspablemath.com/canvas)
+
+### Advanced work
 
 [Wolfram](https://mathworld.wolfram.com/topics/Geometry.html), see also his calculator, [Wolfram Alpha](https://www.wolframalpha.com/)
 
@@ -27,16 +26,14 @@ We'll be using these mathematics tools. Get to know them!
 
 [muboard.net](https://muboard.net/) math chalkboard ([example](muboard_example.html))
 
-[Chat OpenAI](https://chat.openai.com/chat)
-[examples](AI-SAT-slope-problem.md)
+[Chat OpenAI](https://chat.openai.com/chat) with a 
+[problem example](AI-SAT-slope-problem.md) and an
 [essay example](images/ChatAI-reflective-essay.png)
 
-Lesson websites and videos
-[Cut the Knot](https://www.cut-the-knot.org/geometry.shtml)
+### Lesson websites and videos
 
 [A Mile of Pi](https://www.youtube.com/watch?v=0r3cEKZiLmg)
 
-I hope you find these images as inspirational as I do  
 [Famous mathematicians](MathematiciansoftheWorld_NathanDay.pdf)
 (credit [Nathan Day](https://mrdaymaths.com/blog/category/displays/))
 
@@ -47,11 +44,12 @@ I hope you find these images as inspirational as I do
 [BouncyBalls noise meter](https://bouncyballs.org/)
 [Class Room Screen](https://classroomscreen.com/)
 
-[Music and image slides](music-images)
-[NYC Neighborhoods map](images/nyc-neighborhoods-2022.pdf)
+[Music and image slides](music-images),
+[NYC Neighborhoods map](images/nyc-neighborhoods-2022.pdf),
 [ibo.org](https://ibo.org)  
 
 ## About / Contact
+
 [Contact](Contact)
 
 -------

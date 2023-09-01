@@ -2,9 +2,9 @@
 
 [Course Plan](plan-SAT2023)
 
-[Course Plan](PreCalc2023/Plan_IB2023) [(alternative manually rendered wide version)](PreCalc2023/Plan_IB2023-wide)
+[Course Plan](../PreCalc2023/Plan_IB2023) [(alternative manually rendered wide version)](../PreCalc2023/Plan_IB2023-wide)
 
-[Prior year plans](PreCalc2023/plan-IB2022) [(wide version)](PreCalc2023/plan-ib2022-wide)
+[Prior year plans](../PreCalc2023/plan_IB2022) [(wide version)](../PreCalc2023/plan-ib2022-wide)
 
 ## Unit 1: Heart of Algebra
 
@@ -14,7 +14,7 @@
 - 1.6 access is through Google Classroom
 - [1.7 Algebra fluency](01-Algebra/01-7-Slides-Fluency)
 - [1.8 Graphing systems of equations](01-Algebra/01-8-Slides-graphing-systems)
-- SAT no-Calculator quiz [solutions](01-Algebra/SAT-Quiz-solutions-22Sept.pdf)
+- SAT no-Calculator quiz [solutions](SAT-practice-tests/SAT-Quiz-solutions-22Sept.pdf)
 
 ## Unit 2: Problem Solving
 

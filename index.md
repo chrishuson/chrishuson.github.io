@@ -5,6 +5,8 @@
 
 [12th grade: Career and Financial Management](https://math.huson.com/course-files/cfm)
 
+[Mathematical Modeling and Problem Solving](https://math.huson.com/course-files/modeling) [(course description)](modeling/description.md)
+
 ## Tools and resources
 
 We'll be using these mathematics tools. Get to know them!
@@ -43,4 +45,4 @@ We'll be using these mathematics tools. Get to know them!
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456
-Last update: 1 September 2023
+Last update: 2 September 2023

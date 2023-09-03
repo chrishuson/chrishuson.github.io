@@ -1,7 +1,11 @@
-# chrishuson.github.io
+# Mathematics website home page
 
-Hosting for my math instruction website, Geometry, Precalculus, IB Math, and Career Financial Management courses.
+This repository hosts the landing page for my mathematics website and a few administrative pages. The bulk of my mathematics files for teaching are in my course-files repository, which are linked here <https://math.huson.com/course-files/>.
 
-(The url math.huson.com is redirected here) The official school course websites are hosted on BECA's Google Classroom.
+## License
 
-Generally, my problem sets and slides are written in $\LaTeX$ and managed in my course-files GitHub repo. These pages are written in markdown.
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+
+## Contact
+
+If you have any questions or feedback about this project, you can contact me at chuson@schools.nyc.gov (work) or chris@huson.com (personal).

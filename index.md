@@ -1,7 +1,7 @@
 
 # BECA High School mathematics courses 2023-2024
 
-[11th grade: PreCalculus](https://math.huson.com/course-files/precalc)
+[11th grade: Algebra 2](https://math.huson.com/course-files/alg2)
 
 [12th grade: Career and Financial Management](https://math.huson.com/course-files/cfm)
 

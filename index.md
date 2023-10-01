@@ -5,7 +5,8 @@
 
 [12th grade: Career and Financial Management](https://math.huson.com/course-files/cfm)
 
-[Mathematical Modeling and Problem Solving](https://math.huson.com/course-files/modeling) [(course description)](modeling/description.md)
+[Mathematical Modeling and Problem Solving](https://math.huson.com/course-files/modeling)
+[(course description)](modeling/description.md)[(purpose)](modeling/purpose.md)
 
 ## Tools and resources
 

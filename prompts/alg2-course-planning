@@ -1,5 +1,18 @@
-Be a high school algebra teacher and curriculum planner. Help me summarize the Kendall Hunt Illustrative Mathematics Algebra 2 course. I have a spreadsheet with a particular format to be filled in with each day's lesson on rows in the spreadsheet. Let's go step by step. Can you access the course materials open in my browser (also on the website at https://im.kendallhunt.com/HS/teachers/3/index.html )?
+Use this link to the course: https://im.kendallhunt.com/HS/teachers/3/index.html
 
-Good. I want you to complete the spreadsheet. There are 11 columns, starting with the "Lesson Topic". I have an example Excel file with a few rows from another math course that could serve as a guide to you. Please recommend how I can give you that spreadsheet, and then explain how I can get a copy of the spreadsheet you will fill in.
+Be a high school algebra teacher and curriculum planner. Help me summarize the Kendall Hunt Illustrative Mathematics Algebra 2 course in an Excel spreadsheet with a particular format that I will give you. 
 
-I uploaded the spreadsheet to you twice. First, confirm that you can read it. The first tab in the file is the formatted, empty sheet which you will complete. The second tab is the examples. If you  have any questions, let me know. Otherwise go ahead and do the first unit of the course.
+I will upload the beginnings of the spreadsheet for you to complete. There are 11 columns requiring information about each day's lesson. Each day's lesson is a row in the spreadsheet. The first tab in the file is the formatted, empty sheet which you will complete. The second tab contains examples from a different course as a guide for you. 
+
+Let's go step by step. Fill in the first unit of the course now and give me a spreadsheet file to review.
+
+
+Be a high school algebra teacher and curriculum planner. Help me summarize the Kendall Hunt Illustrative Mathematics Algebra 2 course in an Excel spreadsheet with a particular format. 
+
+I will upload the beginnings of the spreadsheet for you to complete. There are 11 columns requiring information about each day's lesson. Each day's lesson is a row in the spreadsheet. The first tab in the file is the formatted, partially-complete sheet which you will complete. The second tab contains examples from a different course as a guide for you. 
+
+I will upload a pdf file with the information for the first unit. You will need to enter the information into the spreadsheet. The first two pages of the pdf contains the standards for the units. These go in columns "E" and "F" in the spreadsheet. Later pages in the pdf cover each day's lesson. The "Learning Goals" provide the material for the spreadsheet column "D". 
+
+Let's go step by step. Fill in columns "D", "E", and "F" for the first unit of the course now and give me a spreadsheet file to review.
+
+Please format it in an excel spreadsheet with the Lesson number and title in the first column and the Learning Goals in the second column. Each row should be a Lesson. So some rows will have two Lesson Goals in the same cell. In that case, separate the Lesson Goals by a line return in the spreadsheet cell. Preface the text of each Learning Goal with its number in the lesson surrounded by parentheses, for example, "(1) " and "(2) ". Now make the spreadsheet

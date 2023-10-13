@@ -1,6 +1,6 @@
 # Modeling & Applied Mathematics
 
-Modeling and Applied Mathematics is a new elective course for students with a strong interest in mathematics. The course aims to help you develop  mathematical skills and knowledge, as well as critical thinking, communication, and collaboration skills. You will learn to use modern mathematical tools and methods to model, analyze, and solve problems in real-world contexts such as business, social issues, engineering, and the sciences.
+Modeling and Applied Mathematics is a new elective course for students with a strong interest in mathematics. The course aims to help you develop mathematical skills and knowledge, as well as critical thinking, communication, and collaboration skills. You will learn to use modern mathematical tools and methods to model, analyze, and solve problems in real-world contexts such as business, social issues, engineering, and the sciences.
 
 The course will draw a small number of highly motivated students from each grade level. A nomination from your math teacher is required to apply. The mix of multiple ages in one class is intentional. Younger students will benefit from the mature thinking of their older classmates and the upperclassmen will be challenged to communicate clearly. The course will have a hybrid or blended format, meaning that you will meet both in person and online (video conferences).
 

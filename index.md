@@ -5,7 +5,7 @@
 
 [12th grade: Career and Financial Management](https://math.huson.com/course-files/cfm)
 
-[Mathematical Modeling and Problem Solving](https://math.huson.com/course-files/modeling)
+[Modeling and Mathematics Applications](https://math.huson.com/course-files/modeling)
 [(course description)](modeling/description.md)[(purpose)](modeling/purpose.md)
 
 ## Tools and resources
@@ -32,6 +32,8 @@ We'll be using these mathematics tools. Get to know them!
 [essay example](images/ChatAI-reflective-essay.png)
 
 ## Videos and inspiration
+
+[Teaching kids real math with computers - Conrad Wolfram](https://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers)
 
 [A Mile of Pi](https://www.youtube.com/watch?v=0r3cEKZiLmg)
 

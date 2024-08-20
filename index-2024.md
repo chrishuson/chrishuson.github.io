@@ -1,9 +1,12 @@
 
-# BECA High School mathematics courses 2024-2025
+# BECA High School mathematics courses 2023-2024
 
-[10th grade: Geometry](https://math.huson.com/course-files/geom)
+[11th grade: Algebra 2](https://math.huson.com/course-files/alg2)
 
-[11th grade: Precalculus (Algebra 2)](https://math.huson.com/course-files/alg2)
+[12th grade: Career and Financial Management](https://math.huson.com/course-files/cfm)
+
+[Modeling and Mathematics Applications](https://math.huson.com/course-files/modeling)
+[(course description)](modeling/description.md)[(purpose)](modeling/purpose.md)
 
 ## Tools and resources
 
@@ -45,4 +48,4 @@ We'll be using these mathematics tools. Get to know them!
 
 -------
 Bronx Early College Academy | 250 E 164th St, Bronx NY 10456
-Last update: 20 August 2024
+Last update: 2 September 2023

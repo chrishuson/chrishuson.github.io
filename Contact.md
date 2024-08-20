@@ -17,6 +17,6 @@ Students should track your grades on [Jumprope](https://jumpro.pe). (Parents, yo
 
 ## My Background
 
-This will be my twelveth year teaching mathematics at BECA. Previously, I had a 25-year career on Wall Street, applying mathematics and technology to trade and to solve my clients' problems. Today I believe education is ripe for the same kind of innovation we have seen transform other parts of society. I'm excited to be part of this important work, and I couldn't be happier to do it in the South Bronx with great colleagues at BECA and a wonderful group of students and their families.
+This will be my thirteenth year teaching mathematics at BECA. Previously, I had a 25-year career on Wall Street, applying mathematics and technology to trade and to solve my clients' problems. Today I believe education is ripe for the same kind of innovation we have seen transform other parts of society. I'm excited to be part of this important work, and I couldn't be happier to do it in the South Bronx with great colleagues at BECA and a wonderful group of students and their families.
 
 I studied mathematics education at Teachers College, Columbia University, earning a Masters degree and a PhD. My dissertation investigated teaching students to apply mathematics in practical situations, "[Mathematical Modeling from the Teacher's Perspective](https://academiccommons.columbia.edu/doi/10.7916/D82N529Z)." My undergraduate degree is from the Massachusetts Institute of Technology in Management Science.

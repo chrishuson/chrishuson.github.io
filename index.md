@@ -1,20 +1,23 @@
 
-# BECA High School mathematics courses 2024-2025
+# IB Mathematics Analysis and Approaches courses 2025-2026
 
-[10th grade: Geometry](https://math.huson.com/course-files/geom)
 
-[11th grade: Precalculus (Algebra 2)](https://math.huson.com/course-files/alg2)
+[11th and 12th grades: Diploma Program](https://math.huson.com/course-files/ib)
 
 ## Tools and resources
 
 We'll be using these mathematics tools. Get to know them!
 
-[DeltaMath](https://www.deltamath.com) Set up your account using your real name. My teacher ID is 546068.
+[DeltaMath](https://www.deltamath.com) Set up your account using your real name.
 
 [Khan Academy](https://www.khanacademy.org/sat),
 [Desmos](https://www.desmos.com/calculator),
 [Geogebra](https://www.geogebra.org/geometry),
 [Graspable Math](https://graspablemath.com/canvas)
+
+### Texas Instruments nSpire CX II graphing calculator
+[TI nSpire CX II guide](https://education.ti.com/en/guidebook/details/en/4A4D8D3E5A1C4E2A9F1A2C1B3E3D4E5F/83B6D3E7A9B34C0FA8C6D7E8F9A0B1C2)
+[Sequences and series](https://scientia-education.com/manuals_tinspire/HTML/html_files/arithmetic_sequences.html)
 
 ## Advanced work
 
@@ -44,5 +47,5 @@ We'll be using these mathematics tools. Get to know them!
 [Contact](Contact)
 
 -------
-Bronx Early College Academy | 250 E 164th St, Bronx NY 10456
-Last update: 20 August 2024
+La Scuola d'Italia | 12 East 96th Street / New York, NY 10128
+Last update: 10 October 2025

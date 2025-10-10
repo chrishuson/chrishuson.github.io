@@ -8,4 +8,4 @@ See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
 ## Contact
 
-If you have any questions or feedback about this project, you can contact me at chuson@schools.nyc.gov (work) or chris@huson.com (personal).
+If you have any questions or feedback about this project, you can contact me at chuson@lascuoladitalia.org (work) or chris@huson.com (personal).

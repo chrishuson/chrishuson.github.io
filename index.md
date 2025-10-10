@@ -8,20 +8,23 @@
 
 We'll be using these mathematics tools. Get to know them!
 
-[DeltaMath](https://www.deltamath.com) Set up your account using your real name.
+<!-- [DeltaMath](https://www.deltamath.com) Set up your account using your real name.
 
 [Khan Academy](https://www.khanacademy.org/sat),
-[Desmos](https://www.desmos.com/calculator),
 [Geogebra](https://www.geogebra.org/geometry),
-[Graspable Math](https://graspablemath.com/canvas)
+[Graspable Math](https://graspablemath.com/canvas) -->
+
+[Desmos](https://www.desmos.com/calculator)
+
+[Wolfram](https://mathworld.wolfram.com/topics/Geometry.html), see also his calculator, [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ### Texas Instruments nSpire CX II graphing calculator
+
 [TI nSpire CX II guide](https://education.ti.com/en/guidebook/details/en/4A4D8D3E5A1C4E2A9F1A2C1B3E3D4E5F/83B6D3E7A9B34C0FA8C6D7E8F9A0B1C2)
 [Sequences and series](https://scientia-education.com/manuals_tinspire/HTML/html_files/arithmetic_sequences.html)
 
 ## Advanced work
 
-[Wolfram](https://mathworld.wolfram.com/topics/Geometry.html), see also his calculator, [Wolfram Alpha](https://www.wolframalpha.com/)
 
 [TeXMe](https://github.com/susam/texme) self-rendering math utility ([example](texme_example.html))
 

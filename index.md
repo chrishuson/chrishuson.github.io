@@ -3,6 +3,8 @@
 
 [11th and 12th grades: Diploma Program](https://math.huson.com/course-files/ib)
 
+[IB Mathematics Exploration Project](ib/project.md)
+
 ## Tools and resources
 
 There is a wealth of mathematics resources online. Here are some of my recommendations.

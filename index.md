@@ -23,7 +23,8 @@ There is a wealth of mathematics resources online. Here are some of my recommend
 
 ### Texas Instruments nSpire CX II graphing calculator
 
-[TI nSpire CX II guide](https://education.ti.com/en/guidebook/details/en/4A4D8D3E5A1C4E2A9F1A2C1B3E3D4E5F/83B6D3E7A9B34C0FA8C6D7E8F9A0B1C2)
+[Product page](https://education.ti.com/en/products/calculators/graphing-calculators/ti-nspire-cx-ii-cx-ii-cas)
+[TI nSpire CX II guide](https://education.ti.com/en/guidebook/details/en/CA40CF5D329C4EC9A6D80A416CCD78E0/TI-NspireCXReferenceGuide)
 [Sequences and series](https://scientia-education.com/manuals_tinspire/HTML/html_files/arithmetic_sequences.html)
 
 ## Advanced work

@@ -1,12 +1,13 @@
 
 # IB Mathematics Analysis and Approaches courses 2025-2026
 
-
 [11th and 12th grades: Diploma Program](https://math.huson.com/course-files/ib)
 
 ## Tools and resources
 
-We'll be using these mathematics tools. Get to know them!
+There is a wealth of mathematics resources online. Here are some of my recommendations.
+
+[Revision Village](https://www.revisionvillage.com/ib-math/analysis-and-approaches-sl/), IB focused with a particularly good set of IB-style practice problems. Student subscription is $70. Check out their free resources.
 
 <!-- [DeltaMath](https://www.deltamath.com) Set up your account using your real name.
 
@@ -14,9 +15,9 @@ We'll be using these mathematics tools. Get to know them!
 [Geogebra](https://www.geogebra.org/geometry),
 [Graspable Math](https://graspablemath.com/canvas) -->
 
-[Desmos](https://www.desmos.com/calculator)
+[Desmos](https://www.desmos.com/calculator) web-based graphing calculator
 
-[Wolfram](https://mathworld.wolfram.com/topics/Geometry.html), see also his calculator, [Wolfram Alpha](https://www.wolframalpha.com/)
+[Wolfram](https://mathworld.wolfram.com/topics/Geometry.html), see also his powerful calculator, [Wolfram Alpha](https://www.wolframalpha.com/), which can solve equations, plot graphs, and much more.
 
 ### Texas Instruments nSpire CX II graphing calculator
 

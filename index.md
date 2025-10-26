@@ -34,6 +34,10 @@ There is a wealth of mathematics resources online. Here are some of my recommend
 
 [muboard.net](https://muboard.net/) math chalkboard ([example](muboard_example.html))
 
+[1.12 CW Series and Logs](1-12CW-Series+logs+1st-solution.md)
+
+[editable 1.12 CW Series and Logs](1-12CW-Series+logs+1st-solution+.md)
+
 [Chat OpenAI](https://chat.openai.com/chat) with a
 [problem example](AI-SAT-slope-problem.md) and an
 [essay example](images/ChatAI-reflective-essay.png)

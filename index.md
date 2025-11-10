@@ -5,6 +5,8 @@
 
 [IB Mathematics Exploration Project](ib/project.md)
 
+[Statistics resources on JupyterLite](https://math.huson.com/jupyterlite-stats/lab/?path=Stats_Intro.ipynb)
+
 ## Tools and resources
 
 There is a wealth of mathematics resources online. Here are some of my recommendations.
